@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_SB
+PlacedObjects: WaterNut><1237.7><279.4977><-253~193~2~3, WaterNut><1276.416><292.6385><-153~127~2~3, WaterNut><1260.051><274.7681><-305~112~2~3, WaterNut><1339.156><329.6766><-68~195~2~3, WaterNut><1684.088><285.8833><0~0~2~3, WaterNut><1633.453><281.1944><31~123~2~3, WaterNut><1658.774><285.0515><4~120~2~3, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><830.5414><646.9457><0.8043478><1.156522,
+MorePalette0: 21, 0.03, 0.03, 0.03

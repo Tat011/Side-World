@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_HR
+Effects: FakeGate-1-256-74, 
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~36~33, LightSource><69.58923><247.369><0.4565217~White~0~100~-200~122.6025~0~0~None~0~0, LightSource><894.3014><247.7735><0.4565217~White~0~100~-175~130.6025~0~0~None~0~0, SteamPipe><349.39><95.58301><30~99, SteamPipe><613.2893><69.69611><-42~60, WallSteamer><529.1281><29.09149><29~58, WallSteamer><432.2874><63.44647><-27~56, SteamPipe><608.4415><-32.05566><-30~81, SteamPipe><354.0574><-3.19458><26~98, 
+FadePalette: 75, 0.4

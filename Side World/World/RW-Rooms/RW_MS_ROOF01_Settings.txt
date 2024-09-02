@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0.1521739
+Grime: 0.2282609
+Palette: 12
+EffectColorA: 15
+EffectColorB: 15
+Effects: DayNight-1-281-20, Flies-0.025-20-20, RockFlea-0.25-20-20, Beetle-0.025-20-20, Wasp-0.025-20-20, LightRain-0.5-20-20, 
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~43~10, LightSource><150.0584><327.9803><0.4556261~White~0~100~50~86.60254~0~0~None~0~0, LightSource><5186.09><250.4832><0.4565217~White~0~100~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><SO_WAT-DripTap.ogg><825.28><607.4478><0.1630435><1, OMNI><AM_ENV-LightWind.ogg><644.3><610.9958><0.3152174><0.9021739, OMNI><AM_ENV-WallHum.ogg><493.9312><645.6652><0.3695652><0.7456522, 
+WetTerrain: OFF

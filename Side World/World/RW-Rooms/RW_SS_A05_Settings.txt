@@ -1,0 +1,7 @@
+Template: RW_SettingsTemplate_SS
+DangerType: NONE
+RainIntensity: 0
+RumbleIntensity: 0
+PlacedObjects: DayNightSettings><83.57849><174.6028><-257~-111.3398~32~33, SuperStructureFuses><275.4147><99.93088><267~116, SuperStructureFuses><123.9796><391.9489><202~157, SuperStructureFuses><669.1676><373.8177><154~49, SuperStructureFuses><660.6348><496.1023><163~52, SuperStructureFuses><675.5661><616.9214><156~50, ZapCoil><-25.05042><332.2368><32~304, LightSource><1024.756><46.05008><1~Environment~-80~88~50~86.60254~1~0~None~0~0, LightFixture><-9.422913><450.4345><ZapCoilLight~17.32051~-10~40, WallMycelia><719.9134><29.38467><-35~128, WallMycelia><893.127><180.0923><14~112, WallMycelia><265.6536><156.6219><0~112, WallMycelia><619.4969><425.4449><2~110, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><803.4479><612.8069><0.3695652><0.7652174, OMNI><AM_IND-SuperStructure.ogg><743.651><493.9238><0.5><1, 
+FadePalette: 17, 0.2086956

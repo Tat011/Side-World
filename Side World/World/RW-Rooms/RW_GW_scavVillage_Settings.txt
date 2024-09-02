@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_GWinterior
+EffectColorA: 13
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~8~10, LightSource><150.4603><86.33186><0.4506962~EffectColor1~0~100~-312.0001~44.60254~0~0~None~0~0, LightSource><734.3429><447.8481><0.4563546~EffectColor1~0~100~71.86255~75.60257~0~0~None~0~0, LanternOnStick><596.4297><148.1621><23~-66, LanternOnStick><516.6813><563.5846><-33~-45, PlacedPearlChain><145.8804><408.6603><-302~96~2~12~0~0, PlacedPearlChain><373.0388><397.0538><-270~157~2~12~0~0, PlacedPearlChain><489.5513><395.4775><-651~-12~2~12~0~0, PlacedPearlChain><836.4106><216.8691><3~-185~2~12~0~0, PlacedPearlChain><799.8646><420.1028><38.99994~-16~2~12~0~0, PlacedPearlChain><190.7058><409.0549><-366~-135~2~12~0~0, PlacedPearlChain><212.8038><177.0574><-93~41~2~12~1~1, FirecrackerPlant><433.0194><551.449><0~0~2~12, FirecrackerPlant><375.1997><552.239><-160~-206~2~12, 
+MorePalette0: 9, 0.03

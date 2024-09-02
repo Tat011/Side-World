@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_SB
+Effects: VoidMelt-0.2-82-94,
+PlacedObjects: DayNightSettings><-47.42151><110.6028><-141~-64.33981~18~43, LightSource><285.6457><89.42062><0.4565217~White~0~100~-244~-131.3975~0~0~None~0~0, GuardProtectNode><3898.806><445.0493><7^-4, TempleGuard><910.375><538.406><, TempleGuard><1440.948><565.2875><, TempleGuard><1904.2><640.245><, TempleGuard><2483.791><634.5541><, TempleGuard><3079.176><712.1859><, LightSource><3893.698><449.8161><0.4565217~White~0~100~50~86.60254~0~0~None~0~0, TempleGuard><3601.226><660.5382><, LightFixture><467.3001><227.2566><HolyFire~-66.6795~68~63, 
+FadePalette: 10, 0.2065217, 0.2065217, 0.2065217, 0.2065217

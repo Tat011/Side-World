@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_DU
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~35~10, ThornyStrawberry><416.282><553.0526><0~0~2~12, LightSource><66.3046><627.2074><0.4565217~White~0~100~-262~-95.39746~0~0~None~0~0, LightSource><48.87088><349.6527><0.4565217~White~0~100~-244~78.60254~0~0~None~0~0, ThornyStrawberry><1475.097><258.9941><-82~-126~2~12, LightSource><1551.874><629.3852><0.4565217~White~0~100~-287~-81.54312~0~0~None~0~0, LightSource><1288.014><188.6995><0.4021739~White~-1~85~-380~-241.3975~0~0~None~0~0, LightSource><943.0851><629.6808><0.4021739~White~3~93~-117~-595.3975~0~0~None~0~0, LightSource><1913.276><348.1982><0.4565217~White~0~100~-64~92.60254~0~0~None~0~0, 
+MorePalette0: 5, 0.03, 0.03

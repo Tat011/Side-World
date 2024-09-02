@@ -1,0 +1,9 @@
+Template: RW_SettingsTemplate_Leg
+Clouds: 0.25
+Grime: 0.0761
+Palette: 19
+EffectColorA: 8
+EffectColorB: 7
+Effects: Flies-0.23-22-76,
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~17~10, LightSource><996.5972><267.6747><0.4565217~White~0~100~50~86.60254~0~0~None~0~0, LightSource><994.5314><569.6975><0.4565217~White~0~100~31~-38.39746~0~0~None~0~0, LanternOnStick><785.8226><250.4363><-15~-49, NoLeviathanStrandingZone><967.6447><592.7418><190~-313,
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><838.4495><650.9854><0.45><1, OMNI><AM_ENV-LightWind.ogg><660.0915><650.6779><0.4><0.9,

@@ -1,0 +1,2 @@
+Template: RW_SettingsTemplate_SHinterior
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~10~10, LightSource><450.6998><623.2416><0.4565217~White~0~100~-270~-125.3975~0~0~None~0~0, LightSource><850.3069><106.3022><0.4565217~White~0~100~-91~119.6025~0~0~None~0~0, 

@@ -1,0 +1,14 @@
+DangerType: NONE
+RainIntensity: 0
+RumbleIntensity: 0
+CeilingDrips: 0
+Clouds: 1
+Grime: 0
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 24
+EffectColorA: 0
+EffectColorB: 12
+Effects: DayNight-1-281-20, ZeroG-1-20-20, ZeroGSpecks-0.2934783-279-79, SunBlock-1-20-20, ProjectedScanLines-1-20-20, SuperStructureProjector-1-20-20,
+AmbientSounds: OMNI><SO_SFX-Drowning.ogg><831.3088><652.4413><0.3><1, OMNI><AM_IND-SuperStructure.ogg><830.6804><648.8125><0.><1, OMNI><SO_SFX-Drowning.ogg><831.9498><649.0094><0.4565217><1, 
+WetTerrain: OFF

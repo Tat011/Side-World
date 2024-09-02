@@ -1,0 +1,5 @@
+Template: RW_SettingsTemplate_GWinterior
+EffectColorB: 6
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~8~10, LightSource><774.4773><595.5513><0.4565217~White~0~100~-160~-153.3975~0~0~None~0~0, LightSource><872.6196><85.91028><0.4565217~White~0~100~22~6.602539~0~0~None~0~0, LightSource><104.6989><68.72916><0.4565217~White~0~100~-288~-23.39746~0~0~None~0~0, LightSource><553.9653><311.447><0.3913043~White~0~89~-738~-159.3975~0~0~None~0~0, LightSource><553.8237><129.3444><0.4021739~White~1~92~100~-170.3975~0~0~None~0~0, LightSource><449.0085><88.44983><0.4021739~Environment~1~92~-41~-132.3975~1~0~None~0~0, LightSource><449.9408><652.4399><0.4021739~White~8~87~-634~-291.3975~0~0~None~0~0, LightSource><449.442><391.4439><0.4021739~White~40~81~-635~-137.3975~0~0~None~0~0, LightSource><556.4113><532.3817><0.4021741~White~2~89~-124~-168.3975~0~0~None~0~0, GooieDuck><413.1><491.6319><0~0~2~12, 
+FadePalette: 10, 0.4021739
+MorePalette0: 9, 0.03

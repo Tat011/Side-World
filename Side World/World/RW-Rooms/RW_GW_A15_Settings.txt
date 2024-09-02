@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_GWinterior
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~8~10, VultureGrub><586.3><313.4984><46~-106~1~12, LightSource><469.4489><568.7711><0.4565217~EffectColor1~0~100~-366~-40.39746~0~0~None~0~0, LightSource><337.4198><169.8556><0.4565217~EffectColor1~0~100~-381~-64.39751~0~0~None~0~0, LightSource><634.8959><314.8633><0.3043478~EffectColor1~28~84~153~36.60254~0~0~None~0~0, LightSource><634.8551><333.8298><0.3043478~EffectColor1~-13~89~171~135.6025~0~0~None~0~0, LightSource><636.8757><375.8445><0.3043478~EffectColor1~2~90~169~210.6025~0~0~None~0~0, 
+MorePalette0: 9, 0.03

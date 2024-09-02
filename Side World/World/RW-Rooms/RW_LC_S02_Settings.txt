@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_LCinterior
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~35~10, LightSource><593.9236><308.9008><0.4565214~White~0~100~50~86.60254~0~0~None~0~0, 
+MorePalette0: 33, 0.03

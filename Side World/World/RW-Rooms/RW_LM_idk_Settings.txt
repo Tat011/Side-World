@@ -1,0 +1,13 @@
+Template: RW_SettingsTemplate_SI
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0.15
+Grime: 0.23
+Palette: 74
+EffectColorA: 12
+EffectColorB: 6
+Effects: LightRain-0.25-20-20, 
+PlacedObjects: DayNightSettings><-3.620972><1216.909><-109~42.66025~33~10, LightSource><602.4436><3387.047><0.4565214~EffectColor1~3~111~242.9999~48.60083~0~0~None~0~0, LightSource><726.5502><3388.261><0.4565217~EffectColor1~3~112~118~160.6079~0~0~None~0~0, LightSource><843.1439><3387.883><0.4565217~EffectColor1~2~110~18~-73.40234~0~0~None~0~0, LightSource><874.604><3733.362><0.4021739~EffectColor1~-34~68~-288~-272.8784~0~0~None~0~0, LightSource><915.5728><3682.827><0.4021739~EffectColor1~4~87~-335~-123.6768~0~0~None~0~0, LightSource><957.9473><3712.879><0.4021739~EffectColor1~5~85~-105~-509.8748~0~0~None~0~0, LightSource><570.6116><3710.892><0.3586957~EffectColor1~-1~83~-248~-178.2178~0~0~None~0~0, LightSource><608.1814><3673.554><0.3586957~EffectColor1~7~87~-280~-242.3918~0~0~None~0~0, LightSource><668.7791><3727.511><0.3586957~EffectColor1~69~40~-675~-69.39185~0~0~None~0~0, LightSource><707.8456><3689.63><0.3586957~EffectColor1~2~85~-751~-156.342~0~0~None~0~0, LightSource><765.8033><3728.335><0.3586957~EffectColor1~52~67~-830.0066~-371.3645~0~0~None~0~0, LightSource><807.0478><3672.529><0.3586957~EffectColor1~4~82~-904~-432.3975~0~0~None~0~0, LightSource><854.9499><3690.833><0.4565217~White~0~100~-264~-340.0071~0~0~None~0~0, LightSource><754.6945><3186.051><0.4021739~White~-1~90~-472~81.60254~0~0~None~0~0, LightSource><750.4244><3011.848><0.4021739~White~60~63~-422~-83.39746~0~0~None~0~0, LightSource><752.1479><2729.934><0.4024446~White~8~89~48~56.61182~0~0~None~0~0, LightSource><754.5516><2911.475><0.4021739~White~13~87~-436~-121.4055~0~0~None~0~0, LightSource><572.3008><2444.752><0.4021739~White~14~89~-375~93.60254~0~0~None~0~0, LightSource><569.386><2272.87><0.4565217~White~-21~83~-276~-200.3828~0~0~None~0~0, LightSource><569.8497><2211.174><0.4565217~White~-27~87~86~-84.39746~0~0~None~0~0, LightSource><570.6536><1968.379><0.4565217~White~9~89~-331~-110.3975~0~0~None~0~0, LightSource><710.2812><1534.691><0.4021739~White~7~86~-319~-209.3975~0~0~None~0~0, LightSource><915.1379><1450.672><0.4021743~White~1~89~-130.9935~-193.3855~0~0~None~0~0, LightSource><633.4367><1190.406><0.4565217~White~0~100~-13~-203.4044~0~0~None~0~0, 
+MorePalette0: 74, 0.03, 0.03, 0.03, 0.03, 0.03

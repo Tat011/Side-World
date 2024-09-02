@@ -1,0 +1,22 @@
+base : Front House
+Suburban : -1 : The beggining
+Dense Urban : -1 : Forgotten region
+Shadow Urban : -1 : S
+Garbage Wastes : -1 : S
+Drainage System : -1 : S
+Shoreline : -1 : S
+Root : -1 : S
+Underhang : -1 : S
+Wall : -1 : Only one room lmao
+Superstructure : -1 : S
+Chimney Canopy : -1 : Now with 30% more poles
+Sky Islands : -1 : No trees this time
+Strip Farms : -1 : S
+Subterranean : -1 : S
+Temple : -1 : S
+Hell Region : -1 : Stygian depths
+Lost City : -1 : S
+Looks to the Moon : -1 : S
+Depths of Moon : -1 : S
+Moon Structure : -1 : S
+Outer Expanse : -1 : S

@@ -1,0 +1,885 @@
+ROOMS
+//Gate
+GATE_4B_RW : RW_DM_ROOF02, RW_LC_tower_connection, RW_MS_ROOF02, DISCONNECTED, RW_SU_A05, RW_OE_RUIN20, RW_HR_ocean, RW_HR_LAKE : GATE
+
+//Suburban
+RW_SU_A01 : RW_SU_A05, RW_SU_A14, RW_SU_B03, RW_SU_A26
+RW_SU_A03 : RW_SI_A03, RW_SI_A26, RW_SU_A15, RW_SU_A14, RW_SU_A11
+RW_SU_A05 : RW_SU_A01, GATE_4B_RW, DISCONNECTED, RW_SU_A27, DISCONNECTED, DISCONNECTED
+RW_SU_A11 : RW_SU_A03, RW_DU_B03
+RW_SU_A14 : RW_SU_A03, RW_SU_A01
+RW_SU_A15 : RW_SU_S02, RW_SU_A03, RW_DU_B06
+RW_SU_A16 : RW_SU_A26, RW_SU_A28
+RW_SU_A21 : RW_LF_C04, RW_SU_A26
+RW_SU_A26 : RW_SU_A21, RW_SU_A01, RW_SU_A16, RW_SU_idk
+RW_SU_A27 : RW_SU_A05, RW_SU_idk
+RW_SU_A28 : RW_LF_A08, RW_SU_A16
+RW_SU_B03 : RW_DU_A20, RW_SU_A01 : SWARMROOM
+RW_SU_idk : RW_SU_A26, RW_SU_A27
+
+RW_SU_S02 : RW_SU_A15 : SHELTER
+
+//Dense Urban
+RW_DU_A03 : RW_DU_B01x, RW_DU_A12 : SWARMROOM
+RW_DU_A04 : RW_DU_A11, RW_DU_A14, RW_DU_A06
+RW_DU_A05 : RW_DU_B01x, RW_SH_A03
+RW_DU_A06 : RW_DU_A04, RW_DU_A13, RW_DU_A11 : SWARMROOM
+RW_DU_A07 : RW_DU_A13, RW_CC_S03l, RW_DU_A08
+RW_DU_A08 : RW_DU_A07, RW_DU_B02x, RW_DU_B06
+RW_DU_A11 : RW_DU_A06, RW_DU_A04, RW_DU_A14, RW_DU_B06
+RW_DU_A12 : RW_DU_A16, RW_DU_A03, RW_GW_A09
+RW_DU_A13 : RW_CC_C01, RW_DU_A06, RW_DU_A07
+RW_DU_A14 : RW_DU_A04, RW_DU_A11, RW_DU_B06
+RW_DU_A16 : RW_DU_B02x, RW_DU_B09, RW_DU_A12
+RW_DU_A20 : RW_SU_B03, RW_DU_B09
+RW_DU_B01x : RW_DU_A05, RW_DU_A03, RW_GW_LOWERGATE
+RW_DU_B02x : RW_DU_A08, RW_SH_A02, RW_DU_A16, RW_DU_B03x
+RW_DU_B03 : RW_SU_A11, RW_DU_B09
+RW_DU_B03x : RW_SH_A01, RW_DU_B02x
+RW_DU_B06 : RW_DU_A14, RW_DU_A11, RW_SU_A15, RW_DU_A08
+RW_DU_B09 : RW_DU_B03, RW_DU_A16, RW_DU_A20 : SWARMROOM
+
+//Heavy Industrial
+//nothing lol
+
+//Garbage Wastes
+RW_GW_A02 : RW_GW_scavVillage, RW_GW_A03
+RW_GW_A03 : RW_GW_A02, RW_DS_B05
+RW_GW_A09 : RW_GW_A18, RW_DU_A12, RW_GW_A16
+RW_GW_A15 : RW_GW_A17, RW_DS_A03
+RW_GW_A16 : RW_GW_A09, RW_GW_LOWERGATE, RW_GW_A17
+RW_GW_A17 : RW_GW_A16, RW_GW_A15
+RW_GW_A18 : RW_GW_A09, RW_GW_scavVillage
+RW_GW_LOWERGATE : RW_DU_B01x, DISCONNECTED, RW_GW_SUB, RW_GW_A16
+RW_GW_scavVillage : DISCONNECTED, RW_GW_A18, RW_GW_A02
+RW_GW_SUB : RW_GW_LOWERGATE, RW_UW_ROOT01, RW_SL_E03, RW_DS_A03
+
+//Shadow Urban
+RW_SH_A01 : RW_DU_B03x, RW_SH_CLIMB
+RW_SH_A02 : RW_DU_B02x, RW_SH_A20
+RW_SH_A03 : RW_SH_CLIMB, RW_DU_A05
+RW_SH_A20 : RW_SH_A02, RW_SH_CLIMB
+RW_SH_CLIMB : RW_SH_A01, RW_SH_A20, RW_SH_A03, RW_UW_ROOT01, RW_SL_idk
+
+//Root
+RW_UW_ROOT01 : RW_UW_ROOT02, RW_SH_CLIMB, RW_GW_SUB
+RW_UW_ROOT02 : RW_UW_grap4, RW_UW_ROOT01
+
+//Underhang
+RW_UW_A15 : RW_UW_D08, RW_UW_test1, RW_UW_grap4
+RW_UW_D08 : RW_UW_A15, RW_SS_A07, RW_SS_A05
+RW_UW_grap4 : RW_UW_A15, RW_SS_A07, RW_UW_ROOT02
+
+//Wall
+RW_UW_test1 : RW_CC_C10, RW_UW_A15 : SWARMROOM
+
+//Superstructure
+RW_SS_A02 : RW_SS_A05, RW_SS_O02
+RW_SS_A05 : RW_UW_D08, RW_SS_A02
+RW_SS_A06 : RW_SS_O02
+RW_SS_A07 : RW_UW_D08, RW_UW_grap4
+RW_SS_O02 : RW_SS_A02, RW_SS_A06
+
+//Lost City
+RW_LC_CITYSHELTER : RW_LC_city_test : SHELTER
+RW_LC_CITYTOWERS : RW_LC_city_test, RW_LC_stripmall
+RW_LC_city_room : RW_LC_two_towers_of_DEATH, RW_CC_A01
+RW_LC_city_test : RW_LC_01a, RW_LC_CITYTOWERS, RW_LC_CITYSHELTER
+RW_LC_stripmall : RW_LC_01a, RW_LC_CITYTOWERS, DISCONNECTED, RW_LC_tallinside, RW_LC_tower_connection
+RW_LC_tallinside : RW_LC_stripmall, RW_LC_subway_redocave, RW_LC_two_towers_of_DEATH
+RW_LC_subway_redocave : RW_LC_tallinside, RW_LC_S02, RW_LC_tower_connection
+RW_LC_theslums : RW_LC_01a, RW_LC_02b
+RW_LC_tower_connection : RW_LC_stripmall, RW_LC_subway_redocave, GATE_4B_RW
+RW_LC_two_towers_of_DEATH : RW_LC_tallinside, RW_LC_city_room
+RW_LC_01a : RW_LC_stripmall, RW_LC_city_test, RW_LC_theslums
+RW_LC_02b : RW_LC_theslums
+
+RW_LC_S02 : RW_LC_subway_redocave : SHELTER
+
+//Shoreline
+RW_SL_A01 : RW_SL_SPLIT, RW_SL_H01
+RW_SL_H01 : RW_LM_WALL01, RW_SL_A01, RW_SL_E03
+RW_SL_SPLIT : RW_SL_idk, RW_SL_A01, RW_SL_E03
+RW_SL_idk : RW_SH_CLIMB, RW_SL_SPLIT
+RW_SL_E03 : RW_SL_H01, RW_GW_SUB, RW_SL_SPLIT, RW_SL_S01, RW_MS_HEARTVENT01
+
+RW_SL_S01 : RW_SL_E03 : SHELTER
+
+//Looks to the Moon
+RW_LM_idk : RW_DM_ROOFREMAKE, RW_LM_WALL01 : SWARMROOM
+RW_LM_WALL01 : RW_LM_idk, RW_DM_S13, RW_SL_H01 : SWARMROOM
+
+//Depths of Moon
+RW_DM_ROOF02 : GATE_4B_RW, RW_DM_ROOFREMAKE
+RW_DM_ROOFREMAKE : RW_DM_ROOF02, RW_LM_idk
+
+RW_DM_S13 : RW_LM_WALL01 : SHELTER
+
+//Moon Structure
+RW_MS_LYMPHATIC : RW_MS_CHAMB01, RW_MS_A01
+RW_MS_A01 : RW_MS_CHAMBTEP, RW_MS_LYMPHATIC, RW_MS_A03
+RW_MS_A03 : RW_MS_CHAMB02, RW_MS_A01
+RW_MS_HEARTVENT01 : RW_SL_E03, RW_MS_T01, RW_MS_CHAMB02
+RW_MS_CHAMBTEP : RW_MS_SC01, RW_MS_A01
+RW_MS_CHAMB01 : RW_MS_ROOF01, RW_MS_X01, RW_MS_LYMPHATIC
+RW_MS_CHAMB02 : RW_MS_HEARTVENT01, RW_MS_A03
+RW_MS_ROOF01 : DISCONNECTED, RW_MS_CHAMB01, RW_MS_ROOF02
+RW_MS_ROOF02 : GATE_4B_RW, RW_MS_ROOF01
+RW_MS_T01 : RW_MS_HEARTVENT01, RW_MS_X01
+RW_MS_X01 : RW_MS_T01, RW_SB_H01, RW_MS_CHAMB01
+
+RW_MS_SC01 : RW_MS_CHAMBTEP : SHELTER
+
+//Drainage System
+RW_DS_A03 : RW_GW_SUB, RW_GW_A15, RW_DS_A12
+RW_DS_A04 : RW_DS_B05
+RW_DS_A12 : RW_DS_A03, RW_DS_C02 : SWARMROOM
+RW_DS_A18 : RW_DS_B05, RW_DS_C02
+RW_DS_B05 : RW_DS_A18, DISCONNECTED, RW_DS_A04, RW_GW_A03
+RW_DS_C02 : RW_DS_A12, RW_DS_A18, RW_SB_TestA, RW_SB_idk
+
+//Chimney Canopy
+RW_CC_A01 : RW_LC_city_room, RW_CC_C10
+RW_CC_A03 : RW_CC_B02, RW_CC_C10 : SWARMROOM
+RW_CC_A05 : RW_CC_C01, RW_CC_A11 : SWARMROOM
+RW_CC_A11 : RW_CC_B09, RW_CC_S02u, RW_CC_A05, RW_SI_A03x
+RW_CC_B02 : RW_CC_B07x, RW_CC_B09, RW_CC_A03
+RW_CC_B07x : RW_CC_B02 : SWARMROOM
+RW_CC_B09 : RW_CC_B02, RW_SI_B08, RW_SI_A19, RW_CC_A11 : SWARMROOM
+RW_CC_C01 : RW_DU_A13, RW_CC_A05, RW_CC_C10
+RW_CC_C10 : RW_CC_A01, RW_CC_A03, RW_UW_test1, RW_CC_C01
+
+RW_CC_S02u : RW_CC_A11 : SHELTER
+RW_CC_S03l : RW_DU_A07 : SHELTER
+
+//Sky Islands
+RW_SI_A01 : RW_SI_A11, RW_SI_A25
+RW_SI_A02x : RW_SI_A14, RW_SI_A13
+RW_SI_A03 : RW_SI_A24, RW_SI_A12, RW_SU_A03
+RW_SI_A03x : RW_CC_A11, RW_SI_A24 : SWARMROOM
+RW_SI_A09 : RW_SI_A22, RW_SI_B08, RW_SI_A13
+RW_SI_A10 : RW_SI_A13, RW_SI_A25
+RW_SI_A11 : RW_SI_A14, RW_SI_A01, RW_SI_A15 : SWARMROOM
+RW_SI_A12 : RW_SI_A16, RW_SI_A03
+RW_SI_A13 : RW_SI_A09, RW_SI_S01, RW_SI_A02x, RW_SI_A10
+RW_SI_A14 : RW_SI_A02x, RW_SI_A19, RW_SI_A11 : SWARMROOM
+RW_SI_A15 : RW_SI_A11, RW_SI_A16
+RW_SI_A16 : RW_SI_A15, RW_SI_A12, RW_SI_D02, RW_SI_A26
+RW_SI_A19 : RW_CC_B09, RW_SI_A14
+RW_SI_A22 : RW_SI_A09
+RW_SI_A24 : RW_SI_A03x, RW_SI_S02, RW_SI_A03 : SWARMROOM
+RW_SI_A25 : RW_SI_A10, RW_SI_D02, RW_SI_A01 : SWARMROOM
+RW_SI_A26 : RW_SI_A16, RW_SU_A03
+RW_SI_B08 : RW_CC_B09, RW_SI_A09
+RW_SI_D02 : RW_SI_A16, RW_SI_A25
+
+RW_SI_S01 : RW_SI_A13 : SHELTER
+RW_SI_S02 : RW_SI_A24 : SHELTER
+
+//Subterranean
+RW_SB_H01 : RW_MS_X01, RW_SB_idk
+RW_SB_TestA : RW_SB_TestD, RW_SB_DirtTest, RW_DS_C02
+RW_SB_TestD : RW_SB_DirtTest, RW_SB_TestA, RW_SB_TestE
+RW_SB_TestE : RW_SB_TestD, RW_SB_Ctest
+RW_SB_Ctest : RW_SB_Temple1, RW_SB_TestE
+RW_SB_DirtTest : RW_SB_TestA, RW_SB_TestD
+RW_SB_idk : RW_DS_C02, RW_SB_H01
+
+//Temple
+RW_SB_Temple1 : RW_SB_Temple2, RW_SB_Ctest
+RW_SB_Temple2 : RW_SB_Temple3, RW_SB_Temple1
+RW_SB_Temple3 : RW_SB_SLUGEXCLUDER, RW_SB_Temple2, RW_HR_CR1
+RW_SB_SLUGEXCLUDER : RW_SB_Temple3, RW_GATE_SB_HR
+RW_GATE_SB_HR : RW_SB_SLUGEXCLUDER, RW_HR_US1
+
+//Hell Region
+RW_HR_A7R : RW_HR_CR1, RW_HR_AB1
+RW_HR_AB1 : RW_HR_A7R, RW_HR_shrine, RW_HR_LS1
+RW_HR_ABNS : RW_HR_NS1, RW_HR_CR1, RW_HR_CA1
+RW_HR_BT : RW_HR_TB1, RW_HR_TBOTTOM
+RW_HR_CA1 : RW_HR_ABNS, RW_HR_FAR1, RW_HR_stalag
+RW_HR_CAT : RW_HR_UTE, RW_HR_TER
+RW_HR_CATT : RW_HR_UTE, RW_HR_LS1
+RW_HR_CR1 : RW_SB_Temple3, RW_HR_ABNS, RW_HR_A7R
+RW_HR_FAR1 : RW_HR_TTOP, RW_HR_CA1, RW_HR_TBR, RW_HR_PillarJump
+RW_HR_intro : RW_HR_LS01, RW_HR_TBOTTOM
+RW_HR_LAKE : RW_HR_TP1, GATE_4B_RW, DISCONNECTED
+RW_HR_LS01 : DISCONNECTED, RW_HR_intro
+RW_HR_LS1 : RW_HR_AB1, RW_HR_test3, RW_HR_CATT
+RW_HR_NB1 : RW_HR_US1, RW_HR_NS1, RW_HR_NB2
+RW_HR_NB2 : RW_HR_test1, RW_HR_NB1
+RW_HR_NS1 : RW_HR_ABNS, RW_HR_PillarJump, RW_HR_NB1, RW_HR_stalag
+RW_HR_ocean : RW_HR_UTE, GATE_4B_RW
+RW_HR_PillarJump : RW_HR_FAR1, RW_HR_NS1
+RW_HR_shrine : RW_HR_AB1, DISCONNECTED
+RW_HR_stalag : RW_HR_CA1, RW_HR_NS1
+RW_HR_TB1 : DISCONNECTED, RW_HR_TBL, RW_HR_TBR, RW_HR_BT, DISCONNECTED
+RW_HR_TBL : RW_HR_TTOP, RW_HR_TBR, RW_HR_TB1
+RW_HR_TBOTTOM : RW_HR_BT, RW_HR_TP1, RW_HR_intro
+RW_HR_TBR : RW_HR_FAR1, RW_HR_TBL, RW_HR_TB1
+RW_HR_TER : RW_HR_TP1, RW_HR_CAT
+RW_HR_test1 : RW_HR_US1, RW_HR_NB2
+RW_HR_test3 : RW_HR_LS1, RW_HR_TP1
+RW_HR_TP1 : RW_HR_test3, RW_HR_TBOTTOM, RW_HR_TER, RW_HR_LAKE
+RW_HR_TTOP : RW_HR_FAR1, RW_HR_TBL
+RW_HR_US1 : RW_HR_test1, RW_GATE_SB_HR, RW_HR_NB1
+RW_HR_UTE : RW_HR_CATT, RW_HR_ocean, RW_HR_CAT
+
+//Linear Farms
+RW_LF_A08 : RW_OE_POWER03, RW_LF_C04, RW_SU_A28, RW_OE_POWER04
+RW_LF_A09 : RW_LF_C04
+RW_LF_C04 : RW_LF_A09, RW_OE_S05, RW_SU_A21, RW_LF_A08
+
+//Outer Expanse
+RW_OE_CAVE06 : RW_OE_POWER03, DISCONNECTED, RW_OE_POWER04, RW_OE_POWER01
+RW_OE_RUIN20 : GATE_4B_RW, RW_OE_POWER02, RW_OE_POWER01
+RW_OE_POWER01 : RW_OE_CAVE06, DISCONNECTED, RW_OE_RUIN20, RW_OE_S02, RW_OE_POWER02 : SWARMROOM
+RW_OE_POWER02 : RW_OE_POWER01, DISCONNECTED, RW_OE_RUIN20
+RW_OE_POWER03 : RW_LF_A08, RW_OE_CAVE06 : SWARMROOM
+RW_OE_POWER04 : RW_LF_A08, RW_OE_CAVE06
+RW_OE_S05 : RW_LF_C04 : SHELTER
+RW_OE_S02 : RW_OE_POWER01 : SHELTER
+END ROOMS
+CREATURES
+//OFFSCREEN
+OFFSCREEN : 0-MirosBird-5, 0-MiniLeviathan-{Ignorecycle}-6, 0-Leviathan-{Ignorecycle}-4, 0-FlyingBigEel-{Ignorecycle}-12, 0-KingVulture-{Ignorecycle}-8, 0-MirosVulture-{Ignorecycle}-8, 0-MirosVulture-{Night}-3, 0-FatFireFly-{Night}-5, 0-FatFireFly-{Ignorecycle}-9, 0-FogVulture-{Ignorecycle}-9, 0-Bombadier-{Ignorecycle}-6, 0-Scavenger-{Ignorecycle}-25, 0-ScavengerElite-{Ignorecycle}-100, 0-ScavengerElite-{Night}-165, 0-Scrounger-{Ignorecycle}-100, 0-DrainMite-200, 0-Deer-5
+LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
+LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
+LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
+LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
+LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
+LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
+LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
+LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
+
+//Outer Expanse
+//RW_OE_RUIN20
+RW_OE_RUIN20 : 3-DropWig-{Ignorecycle}, 4-CicadaA-{Ignorecycle}-3, 5-TentaclePlant-{Ignorecycle}, 6-TentaclePlant-{Ignorecycle}, 7-TentaclePlant-{Ignorecycle}, 8-CicadaB-{Ignorecycle}, 9-BigSpider-{Night}-2, 10-CicadaB-{Night}
+LINEAGE : RW_OE_RUIN20 : 9 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+LINEAGE : RW_OE_RUIN20 : 10 : EggBug-1, Firebug-0
+
+//RW_OE_POWER03
+RW_OE_POWER03 : 2-SmallNeedleWorm-2, 2-CicadaB-{Night}-3, 2-CicadaA-{Night}, 4-BigSpider-{Night}-2
+LINEAGE : RW_OE_POWER03 : 2 : BigNeedleWorm-1, SnootShootNoot-0
+LINEAGE : RW_OE_POWER03 : 3 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//Linear Farms
+//RW_LF_C04
+RW_LF_C04 : 7-SmallCentipede-{Ignorecycle}-2, Scutigera-{Night}-2
+LINEAGE : RW_LF_C04 : 7 : Centipede-{0.4}-1, Centipede-{0.5}-1, Centipede-{0.6}-1, Centipede-{0.7}-1, Centipede-{0.8}-1, Centipede-{0.9}-1, Centipede-{1.0}-1, RedCentipede-0
+
+//Suburban
+//RW_SU_A21
+RW_SU_A21 : 3-CicadaA-2, 3-CicadaB-2, 2-BlackLizard-{Night}, 3-LanternMouse-{Night}-4
+LINEAGE : RW_SU_A21 : 2 : PinkLizard-1, WaterSpitter-{Mean:1.0}-0
+
+//RW_SU_A16
+RW_SU_A16 : 2-MotherSpider-{Night}
+
+//RW_SU_A01
+RW_SU_A01 : 4-Mimic-{Ignorecycle}, 5-Mimic-{Ignorecycle}, 6-LanternMouse-{Night}-4
+LINEAGE : RW_SU_A01 : 6 : EggBug-1, Firebug-0
+
+//RW_SU_idk
+RW_SU_idk : 2-CicadaA-2, 2-CicadaB-2, 2-LanternMouse-{Night}-4, 3-BlackLizard-{Night}
+LINEAGE : RW_SU_idk : 3 : GreenLizard-1, SpitLizard-1, WaterSpitter-1, Red-1, TrainLizard-0
+
+//RW_SU_A05
+RW_SU_A05 : 6-CicadaA-2, 6-CicadaB-2, 7-Mimic-{Ignorecycle}, 8-MotherSpider-{Night}
+
+//RW_SU_A14
+RW_SU_A14 : 2-SmallNeedleWorm-2, 2-LanternMouse-{Night}-2, 3-BlackLizard-{Night}
+LINEAGE : RW_SU_A14 : 2 : BigNeedleWorm-1, SnootShootNoot-0
+LINEAGE : RW_SU_A14 : 3 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_SU_A03
+RW_SU_A03 : 5-Mimic-{8}, 6-BlackLizard-{Night}
+LINEAGE : RW_SU_A03 : 6 :  PinkLizard-1, WaterSpitter-{Mean:1.0}-0
+
+//RW_SU_A11
+RW_SU_A11 : 2-CicadaA-4, 3-CicadaB-2, 4-BlackLizard-{Night}, 5-LanternMouse-{Night}-6
+LINEAGE : RW_SU_A11 : 4 : GreenLizard-1, SpitLizard-1, WaterSpitter-1, Red-1, TrainLizard-0
+
+//RW_SU_A15
+RW_SU_A15 : 3-CicadaA-3, 3-CicadaB-2, 3-MotherSpider-{Night}-2
+
+//RW_SU_B03
+RW_SU_B03 : 2-CicadaA-3, 2-CicadaB-2, 2-LanternMouse-{Night}-7, 3-BlackLizard-{Night}
+LINEAGE : RW_SU_B03 : 3 : GreenLizard-1, SpitLizard-1, WaterSpitter-1, Red-1, TrainLizard-0
+
+//Dense Urban
+//RW_DU_B06
+RW_DU_B06 : 4-DropWig, 5-EggBug-{Night}, 7-DropWig, 4-BlueLizard-{Night}, 7-BlueLizard-{Night}
+LINEAGE : RW_DU_B06 : 5 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_B06 : 5 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_B06 : 5 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_B06 : 5 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_B06 : 5 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+
+//RW_DU_A14
+RW_DU_A14 : 3-EggBug-{Night}
+LINEAGE : RW_DU_A14 : 3 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_A14 : 3 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_A14 : 3 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_A14 : 3 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_A14 : 3 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+
+//RW_DU_A06
+RW_DU_A06 : 3-DropWig, 3-BlueLizard-{Night}
+
+//RW_DU_A11
+RW_DU_A11 : 4-BabyCroaker-2, 4-noodleeater-{Night}-2
+
+//RW_DU_A07
+RW_DU_A07 : 3-SmallNeedleWorm-2, 4-EggBug-{Night}
+LINEAGE : RW_DU_A07 : 3 : BigNeedleWorm-1, SnootShootNoot-0
+LINEAGE : RW_DU_A07 : 4 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_A07 : 4 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_A07 : 4 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_A07 : 4 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_A07 : 4 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+
+//RW_DU_A08
+RW_DU_A08 : 3-DropWig, 3-BlueLizard-{Night}
+
+//RW_DU_B09
+RW_DU_B09 : 3-DropWig, 3-BlueLizard-{Night}, 4-EggBug-{Night}, 5-BabyCroaker, 5-noodleeater-{Night}
+LINEAGE : RW_DU_B09 : 4 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_B09 : 4 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_B09 : 4 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_B09 : 4 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_B09 : 4 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+
+//RW_DU_B02x
+RW_DU_B02x : 4-DropWig, 4-BlueLizard-{Night}, 5-BabyCroaker, 5-noodleeater-{Night}
+
+//RW_DU_A16
+RW_DU_A16 : 3-DropWig, 3-BlueLizard-{Night}
+
+//RW_DU_A12
+RW_DU_A12 : 3-EggBug-{Night}, 3-GarbageWorm-{Ignorecycle}, 4-GarbageWorm-{Ignorecycle}, 5-GarbageWorm-{Ignorecycle}, 6-GarbageWorm-{Ignorecycle}
+LINEAGE : RW_DU_A12 : 3 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_A12 : 3 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_A12 : 3 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+
+//RW_DU_B03x
+RW_DU_B03x : 3-BabyCroaker, 3-noodleeater-{Night}, 2-BlackLizard-{Night}-2
+LINEAGE : RW_DU_B03x : 2 : PinkLizard-1, WaterSpitter-0
+LINEAGE : RW_DU_B03x : 4 : GreenLizard-1, SpitLizard-1, WaterSpitter-1, Red-1, TrainLizard-0
+
+//RW_DU_A03
+RW_DU_A03 : 2-EggBug-{Night}
+LINEAGE : RW_DU_A03 : 2 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_A03 : 2 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_A03 : 2 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_DU_A03 : 3 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_DU_A03 : 3 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+
+//RW_DU_B01x
+RW_DU_B01x : 3-BlackLizard-{Night}
+LINEAGE : RW_DU_B01x : 3 : PinkLizard-1, WaterSpitter-0
+
+//Shadow Urban
+//RW_SH_A01
+RW_SH_A01 : 2-LanternMouse-{Ignorecycle}-2, 3-LanternMouse-{Ignorecycle}-2, 4-BigSpider-{Ignorecycle}, 5-MotherSpider-{Ignorecycle}, 5-Spider-{Ignorecycle}-6
+
+//RW_SH_A03
+RW_SH_A03 : 2-LanternMouse-{Ignorecycle}-3, 4-TentaclePlant-{Ignorecycle}, 5-BigSpider-{Ignorecycle}, 5-MotherSpider-{Ignorecycle}, 5-Spider-{Ignorecycle}-6
+
+//RW_SH_CLIMB
+RW_SH_CLIMB : 5-LanternMouse-{Ignorecycle}-4, 6-SpitterSpider-{Night}, 6-MotherSpider-{Ignorecycle}, 7-MotherSpider-{Ignorecycle}, 7-Spider-{Ignorecycle}-6
+
+//Garbage Wastes
+//RW_GW_LOWERGATE
+RW_GW_LOWERGATE : 4-MaracaSpider-{Night}, 5-SmallCentipede-2, 5-Scutigera-{Night}
+LINEAGE : RW_GW_LOWERGATE : 5 : Centipede-{0.4}-1, Centipede-{0.5}-1, Centipede-{0.6}-1, Centipede-{0.7}-1, Centipede-{0.8}-1, Centipede-{0.9}-1, Centipede-{1.0}-1, RedCentipede-0
+LINEAGE : RW_GW_LOWERGATE : 4 : BigSpider-1, MotherSpider-1, SpitterSpider-0
+
+//RW_GW_SUB
+RW_GW_SUB : 5-MaracaSpider-{Night}, 6-SmallCentipede-2, 7-Scutigera-{Night}, 8-TentaclePlant-{Ignorecycle}, 9-TubeWorm-{bigrub}-{Night}-6, 10-JetFish-{Ignorecycle}-2, 12-EelLizard-{Ignorecycle}, 13-GarbageWorm-{Ignorecycle}, 14-GarbageWorm-{Ignorecycle}, 15-GarbageWorm-{Ignorecycle}, 16-GarbageWorm-{Ignorecycle}, 17-GarbageWorm-{Ignorecycle}, 18-GarbageWorm-{Ignorecycle}
+LINEAGE : RW_GW_SUB : 4 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+LINEAGE : RW_GW_SUB : 5 : BigSpider-1, MotherSpider-1, SpitterSpider-0
+LINEAGE : RW_GW_SUB : 7 : Centipede-{0.4}-1, Centipede-{0.5}-1, Centipede-{0.6}-1, Centipede-{0.7}-1, Centipede-{0.8}-1, Centipede-{0.9}-1, Centipede-{1.0}-1, RedCentipede-0
+LINEAGE : RW_GW_SUB : 9 : EggBug-1, Firebug-0
+LINEAGE : RW_GW_SUB : 9 : EggBug-1, Firebug-0
+
+//RW_GW_A18
+RW_GW_A18 : 2-MaracaSpider-{Night}
+LINEAGE : RW_GW_A18 : 2 : BigSpider-0.35, MotherSpider-0.4, SpitterSpider-0
+
+//RW_GW_scavVillage
+RW_GW_scavVillage : 3-SmallCentipede-2, 3-Scutigera-{Night}
+LINEAGE : RW_GW_scavVillage : 3 : Centipede-{0.4}-1, Centipede-{0.5}-1, Centipede-{0.6}-1, Centipede-{0.7}-1, Centipede-{0.8}-1, Centipede-{0.9}-1, Centipede-{1.0}-1, RedCentipede-0
+
+//Drainage System
+//RW_DS_B05
+RW_DS_B05 : 4-SeaLeech-{Ignorecycle}-3, 5-SeaLeech-{Ignorecycle}-3
+
+//RW_DS_C02
+RW_DS_C02 : 4-bouncingball-{Night}-4, 5-Salamander, 5-EelLizard-{Night}, 6-Salamander, 6-EelLizard-{Night}
+LINEAGE : RW_DS_C02 : 4 : Snail-1, bouncingball-0
+LINEAGE : RW_DS_C02 : 4 : Snail-1, bouncingball-0
+LINEAGE : RW_DS_C02 : 4 : Snail-1, bouncingball-0
+LINEAGE : RW_DS_C02 : 4 : Snail-1, bouncingball-0
+
+//Subterranean
+//RW_SB_TestA
+RW_SB_TestA : 3-Firebug-{Night}
+LINEAGE : RW_SB_TestA : 3 : EggBug-1, Firebug-0
+
+//RW_SB_idk
+RW_SB_idk : 2-SmallNeedleWorm-4, 2-CicadaA-{Night}-7, 3-TentaclePlant-{Ignorecycle}, 4-JetFish-{Ignorecycle}, 5-JetFish-{Ignorecycle}-2
+LINEAGE : RW_SB_idk : 2 : BigNeedleWorm-1, SnootShootNoot-0
+
+//RW_SB_H01
+RW_SB_H01 : 2-JetFish-{Ignorecycle}-6
+
+//RW_SB_TestD
+RW_SB_TestD : 3-DropWig, 3-ThornBug-{Night}, 4-DropWig, 4-ThornBug-{Night}, 5-CicadaA-{Ignorecycle}-3, 6-DropWig, 6-ThornBug-{Night}, 7-TentaclePlant-{Ignorecycle}, 8-DropWig, 8-ThornBug-{Night}
+
+//RW_SB_TestE
+RW_SB_TestE : 2-SmallNeedleWorm-3, 2-CicadaA-{Night}-4, 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-DropWig-2, 5-ThornBug-{Night}-2, 6-DropWig-2, 6-ThornBug-{Night}-2
+LINEAGE : RW_SB_TestE : 2 : BigNeedleWorm-1, SnootShootNoot-0
+
+//RW_SB_Ctest
+RW_SB_Ctest : 2-TentaclePlant, 3-TentaclePlant, 4-TentaclePlant, 5-DropWig-2, 5-ThornBug-{Night}-2, 6-CicadaA-{Ignorecycle}-3
+
+//RW_SB_Temple1
+RW_SB_Temple1 : 2-Firebug-{Ignorecycle}
+
+//Sky Islands
+//RW_SI_D02
+RW_SI_D02 : 2-Centiwing-{Ignorecycle}-2, 3-SmallNeedleWorm-2, 3-CicadaA-2, 3-CicadaB, 3-hoverfly-{Night}-5
+LINEAGE : RW_SI_D02 : 3 : BigNeedleWorm-1, SnootShootNoot-0
+
+//RW_SI_A16
+RW_SI_A16 : 4-CicadaA-3, 4-CicadaB-3, 4-TubeWorm-{bigrub}-{Night}-5, 5-BrotherLongLegs-{Night}
+LINEAGE : RW_SI_A16 : 5 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_SI_A12
+RW_SI_A12 : 2-bouncingball-{Night}-4
+LINEAGE : RW_SI_A12 : 2 : Snail-1, bouncingball-0
+LINEAGE : RW_SI_A12 : 2 : Snail-1, bouncingball-0
+LINEAGE : RW_SI_A12 : 2 : Snail-1, bouncingball-0
+LINEAGE : RW_SI_A12 : 2 : Snail-1, bouncingball-0
+
+//RW_SI_A25
+RW_SI_A25 : 3-CicadaA-3, 4-CicadaB-3, 4-hoverfly-{Night}-6
+
+//RW_SI_A01
+RW_SI_A01 : 2-CicadaA-3, 2-CicadaB-3, 2-hoverfly-{Night}-6
+
+//RW_SI_A11
+RW_SI_A11 : 3-CicadaA-3, 3-CicadaB-3, 3-hoverfly-{Night}-6, 4-BrotherLongLegs-{Night}-2
+LINEAGE : RW_SI_A11 : 4 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+LINEAGE : RW_SI_A11 : 4 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_SI_A13
+RW_SI_A13 : 4-CicadaA-3, 5-CicadaB-3, 4-hoverfly-{Night}-6, 6-BrotherLongLegs-{Night}
+LINEAGE : RW_SI_A13 : 6 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_SI_A09
+RW_SI_A09 : 3-BigNeedleWorm, 3-SmallNeedleWorm-3, 4-CicadaA-2, 4-CicadaB-2, 4-hoverfly-{Night}-4, 5-BrotherLongLegs-{Night}
+LINEAGE : RW_SI_A09 : 5 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_SI_A22
+RW_SI_A22 : 1-Centiwing-{Ignorecycle}, 2-CicadaA, 2-hoverfly-{Night}
+
+//RW_SI_A02x
+RW_SI_A02x : 2-Centiwing-{Ignorecycle}-3
+
+//RW_SI_A19
+RW_SI_A19 : 2-CicadaA-4, 3-CicadaB-3, 3-TubeWorm-{bigrub}-{Night}-5
+
+//RW_SI_B08
+RW_SI_B08 : 2-YellowLizard-2, 2-BlackLizard-{Night}-3
+
+//RW_SI_A24
+RW_SI_A24 : 3-CicadaA-3, 3-CicadaB-3, 3-hoverfly-{Night}-6
+
+//RW_SI_A03x
+RW_SI_A03x : 2-Centiwing-{Ignorecycle}-2, 3-BrotherLongLegs-{Night}
+LINEAGE : RW_SI_A03x : 3 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//Chimney Canopy
+//RW_CC_B09
+RW_CC_B09 : 4-YellowLizard-2, 4-BlackLizard-{Night}-3, 5-Centiwing-{Ignorecycle}-2, 5-CicadaA-2, 5-CicadaB-2, 5-hoverfly-{Night}-4
+
+//RW_CC_B02
+RW_CC_B02 : 3-Centiwing-{Ignorecycle}-2, 3-CicadaA-2, 3-CicadaB-2, 3-hoverfly-{Night}-4, 4-YellowLizard-2, 4-BlackLizard-{Night}-3
+
+//RW_CC_B07x
+RW_CC_B07x : 1-Centiwing-{Ignorecycle}, 1-CicadaA, 1-CicadaB, 1-hoverfly-{Night}-2, 2-YellowLizard, 2-BlackLizard-{Night}
+
+//RW_CC_A03
+RW_CC_A03 : 2-Centiwing-{Ignorecycle}-2, 2-CicadaA-2, 2-CicadaB-2, 2-hoverfly-{Night}-4, 3-YellowLizard-2, 3-BlackLizard-{Night}-2
+
+//RW_CC_A11
+RW_CC_A11 : 6-SmallNeedleWorm-2
+LINEAGE : RW_CC_A11 : 6 : BigNeedleWorm-1, SnootShootNoot-0
+LINEAGE : RW_CC_A11 : 4 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_CC_A11 : 4 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_CC_A11 : 5 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_CC_A11 : 5 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_CC_A11 : 6 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_CC_A11 : 6 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+
+//RW_CC_C01
+RW_CC_C01 : 3-YellowLizard-4, 3-BlackLizard-{Night}-5, 4-Centiwing-{Ignorecycle}-3, 4-CicadaA-3, 4-CicadaB-3, 4-hoverfly-{Night}-6
+
+//RW_CC_C10
+RW_CC_C10 : 4-Centiwing-{Ignorecycle}-3
+
+//Lost City
+//RW_LC_city_room
+LINEAGE : RW_LC_city_room : 2 : BlackLizard-1, YellowLizard-0
+LINEAGE : RW_LC_city_room : 2 : BlackLizard-1, YellowLizard-0
+LINEAGE : RW_LC_city_room : 2 : BlackLizard-1, YellowLizard-0
+LINEAGE : RW_LC_city_room : 2 : BlackLizard-1, YellowLizard-0
+
+//RW_LC_two_towers_of_DEATH
+RW_LC_two_towers_of_DEATH : 2-Centiwing-{Ignorecycle}-2
+
+//RW_LC_tallinside
+LINEAGE : RW_LC_tallinside : 3 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_LC_tallinside : 3 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_LC_tallinside : 3 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_LC_tallinside : 3 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+
+//RW_LC_subway_redocave
+RW_LC_subway_redocave : 3-Yeek-{Ignorecycle}-5, 4-Yeek-{Ignorecycle}-5
+
+//RW_LC_stripmall
+RW_LC_stripmall : 7-Centiwing-{Ignorecycle}-2, 8-SmallNeedleWorm-2, 9-Yeek-{Ignorecycle}-10, 8-hoverfly-{Night}-4, 5-Gecko-{Night}, 6-Gecko-{Night}
+LINEAGE : RW_LC_stripmall : 8 : BigNeedleWorm-1, SnootShootNoot-0
+LINEAGE : RW_LC_stripmall : 5 : ZoopLizard-1, CyanLizard-1, Seeker-0
+LINEAGE : RW_LC_stripmall : 6 : ZoopLizard-1, CyanLizard-1, Seeker-0
+
+//RW_LC_city_test
+RW_LC_city_test : 3-Yeek-{Ignorecycle}-5
+
+//RW_LC_01a
+RW_LC_01a : 3-Yeek-{Ignorecycle}-6, 4-FireBug-{Night}-2, 5-Gecko-{Night}
+LINEAGE : RW_LC_01a : 4 : EggBug-1, FireBug-0
+LINEAGE : RW_LC_01a : 4 : EggBug-1, FireBug-0
+LINEAGE : RW_LC_01a : 5 : ZoopLizard-1, CyanLizard-1, Seeker-0
+
+//RW_LC_tower_connection
+RW_LC_tower_connection : 4-Centiwing-{Ignorecycle}-2, 3-Gecko-{Night}
+LINEAGE : RW_LC_tower_connection : 3 : ZoopLizard-1, CyanLizard-1, Seeker-0
+
+//Superstructure
+RW_SS_O02 : 2-Inspector-{Ignorecycle}, 3-Inspector-{Ignorecycle}, 4-Inspector-{Ignorecycle}, 5-Inspector-{Ignorecycle}
+
+//Underhang/Root
+//RW_UW_D08
+RW_UW_D08 : 3-FireBug-{Night}, 4-SpitterSpider-{Night}
+LINEAGE : RW_UW_D08 : 3 : EggBug-1, FireBug-0
+LINEAGE : RW_UW_D08 : 6 : WhiteLizard-1, Seeker-0
+LINEAGE : RW_UW_D08 : 5 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_UW_D08 : 6 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_UW_D08 : 7 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_UW_D08 : 7 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+
+//RW_UW_grap4
+LINEAGE : RW_UW_grap4 : 3 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_UW_grap4 : 3 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_UW_grap4 : 3 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_UW_grap4 : 4 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_UW_grap4 : 4 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_UW_grap4 : 4 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_UW_grap4 : 5 : White-1, Seeker-0
+
+//RW_UW_ROOT02
+RW_UW_ROOT02 : 2-Centiwing-{Ignorecycle}-3
+
+//RW_UW_ROOT01
+RW_UW_ROOT01 : 3-Centiwing, 3-Scutigera-{Night}, 4-SpitterSpider-{Night}
+LINEAGE : RW_UW_ROOT01 : 4 : White-1, Seeker-0
+LINEAGE : RW_UW_ROOT01 : 5 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_UW_ROOT01 : 6 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_UW_ROOT01 : 6 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+LINEAGE : RW_UW_ROOT01 : 7 : TubeWorm-0.4, TubeWorm-{altbigrub}-0
+LINEAGE : RW_UW_ROOT01 : 7 : TubeWorm-0.4, TubeWorm-{bigrub}-0
+
+//Shoreline
+//RW_SL_E03
+RW_SL_E03 : 6-JetFish-{Ignorecycle}, 7-JetFish-{Ignorecycle}-4
+
+//RW_SL_idk
+RW_SL_idk : 2-JetFish-{Ignorecycle}-2, 3-JetFish-{Ignorecycle}, 4-Salamander, 4-EelLizard-{Night}, 5-Salamander, 5-EelLizard-{Night}, 7-JetFish-{Ignorecycle}
+
+//RW_SL_A01
+RW_SL_A01 : 2-JetFish-{Ignorecycle}
+
+//RW_SL_H01
+RW_SL_H01 : 3-JetFish-{Ignorecycle}, 4-JetFish-{Ignorecycle}, 5-Salamander, 5-EelLizard-{Night}, 6-JetFish-{Ignorecycle}, 7-Salamander, 7-EelLizard-{Night}, 5-JetFish-{Ignorecycle}, 3-GarbageWorm, 4-GarbageWorm, 5-GarbageWorm, 6-GarbageWorm, 7-GarbageWorm
+
+//Depths of Moon
+//RW_LM_WALL01
+RW_LM_WALL01 : 3-Centiwing-{Ignorecycle}-2, 4-BigSpider-{Night}, 5-DropWig, 5-BigSpider-{Night}
+LINEAGE : RW_LM_WALL01 : 4 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_LM_idk
+RW_LM_idk : 2-Centiwing-{Ignorecycle}, 3-Centiwing-{Ignorecycle}, 4-FireBug-{Night}, 6-DropWig, 6-BigSpider-{Night}, 7-BigSpider-{Night}, 8-BigSpider-{Night}, 9-Centiwing-{Ignorecycle}, 10-Centiwing-{Ignorecycle}
+LINEAGE : RW_LM_idk : 4 : EggBug-1, FireBug-0
+LINEAGE : RW_LM_idk : 7 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+LINEAGE : RW_LM_idk : 8 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_DM_ROOFREMAKE
+RW_DM_ROOFREMAKE : 2-Centiwing-{Ignorecycle}-2, 3-Yeek-{Ignorecycle}-15
+
+//Moon Structure
+RW_MS_HEARTVENT01 : 3-AquaCenti-{Ignorecycle}, 4-JetFish-{Ignorecycle}-3
+RW_MS_T01 : 2-JetFish-{Ignorecycle}
+RW_MS_X01 : 3-EelLizard-{Ignorecycle}
+RW_MS_A01 : 3-EelLizard-{Ignorecycle}
+RW_MS_LYMPHATIC : 2-JetFish-{Ignorecycle}
+RW_MS_ROOF01 : 4-Yeek-{Ignorecycle}-8, 9-Yeek-{Ignorecycle}-8
+RW_MS_ROOF02 : 3-Yeek-{Ignorecycle}-5
+
+//Hell Region
+//RW_HR_US1
+RW_HR_US1 : 3-FireBug-{Ignorecycle}
+
+//RW_HR_NS1
+RW_HR_NS1 : 4-Gecko-{Night}
+LINEAGE : RW_HR_NS1 : 4 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_HR_ABNS
+RW_HR_ABNS : 3-FireBug-{Ignorecycle}, 4-Sporantula, 4-MaracaSpider-{Night}, 5-Sporantula, 5-MaracaSpider-{Night}, 6-noodleeater, 6-BabyCroaker-{Night}, 7-noodleeater, 7-BabyCroaker-{Night}
+
+//RW_HR_CR1
+RW_HR_CR1 : 4-DaddyLongLegs, 4-HunterDaddy-{Night}, 3-Gecko-{Night}
+LINEAGE : RW_HR_CR1 : 3 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_HR_A7R
+RW_HR_A7R : 2-FireBug-{Ignorecycle}, 3-Sporantula, 3-MaracaSpider-{Night}, 4-noodleeater, 4-BabyCroaker-{Night}, 5-Sporantula, 5-MaracaSpider-{Night}, 6-noodleeater, 6-BabyCroaker-{Night}
+
+//RW_HR_shrine
+RW_HR_shrine : 2-DaddyLongLegs, 2-HunterDaddy-{Night}
+
+//RW_HR_AB1
+RW_HR_AB1 : 3-Gecko-{Night}, 4-FireBug-{Ignorecycle}, 5-Sporantula, 5-MaracaSpider-{Night}, 6-noodleeater, 6-BabyCroaker-{Night}, 7-Gecko-{Night}
+LINEAGE : RW_HR_AB1 : 3 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+LINEAGE : RW_HR_AB1 : 7 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_HR_CA1
+RW_HR_CA1 : 3-Gecko-{Night}, 4-FireBug-{Ignorecycle}, 5-noodleeater, 5-BabyCroaker-{Night}
+LINEAGE : RW_HR_CA1 : 3 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_HR_FAR1
+RW_HR_FAR1 : 4-FireBug-{Ignorecycle}, 5-Sporantula, 5-MaracaSpider-{Night}, 6-SnootShootNoot-{Ignorecycle}, 6-SmallNeedleWorm-{Ignorecycle}-2
+
+//RW_HR_TBR
+RW_HR_TBR : 3-Mimic-{Ignorecycle}
+
+//RW_HR_TB1
+RW_HR_TB1 : 5-Mimic-{Ignorecycle}, 6-Mimic-{Ignorecycle}, 7-Mimic-{Ignorecycle}
+
+//RW_HR_BT
+RW_HR_BT : 2-Gecko-{Night}, 3-Mimic-{Ignorecycle}, 4-Mimic-{Ignorecycle}
+LINEAGE : RW_HR_BT : 2 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+
+//RW_HR_TBOTTOM
+RW_HR_TBOTTOM : 3-noodleeater, 3-BabyCroaker-{Night}, 4-Sporantula, 4-MaracaSpider-{Night}
+
+//RW_HR_LS01
+RW_HR_LS01 : 2-DaddyLongLegs, 2-HunterDaddy-{Night}, 2-JetFish-{Lavasafe}-4
+
+//RW_HR_TP1
+RW_HR_TP1 : 4-Mimic-{Ignorecycle}, 5-Mimic-{Ignorecycle}
+
+//RW_HR_LAKE
+RW_HR_LAKE : 3-Seeker-{Night}, 4-Seeker-{Night}
+LINEAGE : RW_HR_LAKE : 3 : CyanLizard-1, Seeker-0
+LINEAGE : RW_HR_LAKE : 4 : CyanLizard-1, Seeker-0
+
+//RW_HR_LS1
+RW_HR_LS1 : 3-JetFish-{Lavasafe}-2,, 4-JetFish-{Lavasafe}-2, 5-JetFish-{Lavasafe}-2, 4-Seeker-{Night}
+LINEAGE : RW_HR_LS1 : 4 : CyanLizard-1, Seeker-0
+
+//RW_HR_TER
+RW_HR_TER : 2-noodleeater-2, 2-BabyCroaker-{Night}-2, 3-Sporantula-2, 3-MaracaSpider-{Night}-2
+
+//RW_HR_CATT
+RW_HR_CATT : 2-noodleeater, 2-BabyCroaker-{Night}, 3-Sporantula, 3-MaracaSpider-{Night}
+
+//RW_HR_UTE
+RW_HR_UTE : 3-Gecko-{Night}, 4-TentaclePlant-{Ignorecycle}
+LINEAGE : RW_HR_UTE : 3 : BlueLizard-1, WhiteLizard-1, CyanLizard-1, Seeker-0
+END CREATURES
+BAT MIGRATION BLOCKAGES
+RW_UW_A15
+RW_SS_A07
+RW_LF_A08
+RW_SI_A15
+RW_GW_A18
+RW_SB_Temple1
+RW_GATE_SB_HR
+END BAT MIGRATION BLOCKAGES

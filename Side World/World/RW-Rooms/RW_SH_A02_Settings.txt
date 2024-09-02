@@ -1,0 +1,2 @@
+Template: RW_SettingsTemplate_SH
+PlacedObjects: DayNightSettings><47.57849><33.60283><-151~-64.33981~10~10, LightSource><835.1572><230.3383><0.4565217~White~0~100~49~-73.39746~0~0~None~0~0, LightSource><51.3839><329.7328><0.4565217~Environment~0~100~-228~-186.3975~1~0~None~0~0, LanternOnStick><481.6475><295.0782><-8~-31, NeedleEgg><148.3256><462.902><-101~-99~2~12, NeedleEgg><955.0892><101.321><-179~-108~4~9, 

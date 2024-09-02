@@ -1,0 +1,10 @@
+Template: RW_SettingsTemplate_OEinterior
+Clouds: 1
+Grime: 0.2
+Palette: 14
+EffectColorA: 0
+EffectColorB: 2
+Effects: Ant-1-20-20, 
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~76~10, LightFixture><498.9631><107.0535><RedLight~17.32051~-10~31, LightFixture><2593.306><605.3003><RedLight~17.32051~-10~27, LightSource><510.9434><106.199><0.4565217~White~0~100~-109~269.6025~0~0~None~0~0, LightSource><2592.652><606.8797><0.4565217~White~0~100~-357~-159.3975~0~0~None~0~0, 
+AmbientSounds: OMNI><AM_IND-ElectricHum01.ogg><83.76166><347.5504><0.5><1, OMNI><AM_SUB-BlankState.ogg><82.9469><266.2149><0.5><1, OMNI><SO_WAT-Splashes.ogg><85.09479><173.9261><0.1956522><1, 
+FadePalette: 10, 0.6, 0.6, 0.6

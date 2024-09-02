@@ -1,0 +1,20 @@
+DangerType: NONE
+RainIntensity: 0
+RumbleIntensity: 0
+CeilingDrips: 1
+WaveSpeed: 0.5978261
+WaveLength: 0.8260869
+WaveAmplitude: 0.4673913
+SecondWaveLength: 0.5144925
+SecondWaveAmplitude: 0.3478261
+Clouds: 0.3913043
+Grime: 0.5
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.25
+Palette: 13
+EffectColorA: 0
+EffectColorB: 6
+Effects: DayNight-1-281-20, Fog-0.5-23-82, LightRain-0.45-20-20, BorderPushBack-1-5-79, WaterGlowworm-0.2-273-40, RockFlea-0.25-20-20, Beetle-0.1-20-20, Wasp-1-20-20,
+AmbientSounds: OMNI><SO_WAT-OpenFlow.ogg><779.651><569.6311><0.35><1, OMNI><SO_WAT-RainishDrips.ogg><547.0891><555.8209><0.75><1, OMNI><SO_WAT-Splashes.ogg><590.6359><397.4143><0.25><1, OMNI><SO_WAT-DripTap.ogg><749.3><276.2468><0.75><1, OMNI><AM_WAT-Sea01.ogg><654.1245><638.5935><0.423913><1, OMNI><AM_ENV-LightWind.ogg><831.1455><642.5795><0.4204348><1, 
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~34~10,
+WetTerrain: ON

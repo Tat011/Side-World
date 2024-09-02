@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_MS
+PlacedObjects: LightSource><508.5844><591.5687><0.4565217~White~0~100~-584~-123.3975~0~0~None~0~0, LightSource><410.4442><84.55792><0.4565217~White~0~100~-463~123.6025~0~0~None~0~0, ZapCoil><347.653><251.8712><42~95, ZapCoil><568.9899><246.4498><38~79, 
+FadePalette: 5, 0.3

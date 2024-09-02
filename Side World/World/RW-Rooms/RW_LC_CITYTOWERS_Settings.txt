@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_LC
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~35~10, ColouredLightSource><188.6721><276.8518><-213~126~FFFF00~-108^-3~0.1956522~False~0.5~0~0.5~Always~0~100, LightSource><1051.95><427.2593><0.4565217~White~0~100~-256~91.60254~0~0~None~0~0, LightSource><563.7601><183.4497><0.4565217~White~0~100~34~-115.8671~0~0~None~0~0, LanternOnStick><611.1272><444.3456><9~-37, SeedCob><580.8394><730.679><-207~-111~2~12, DeadSeedCob><628.1998><744.7427><, DandelionPatch><859.6044><756.2417><-406~-88, 
+MorePalette0: 33, 0.03

@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_SUinterior
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~20~10, LightSource><874.0502><629.7423><0.4565217~White~0~100~-239~-136.3975~0~0~None~0~0, LightSource><83.16251><629.9298><0.4565217~White~0~100~-189~-144.3975~0~0~None~0~0, LightSource><479.3569><452.3898><0.4021739~White~0~120~-339~-125.3975~0~0~Flash~0.75~0, 
+FadePalette: 14, 0.35
+MorePalette0: 0, 0.03

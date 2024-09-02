@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_OEinterior
+EffectColorB: 18
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~76~10, LightSource><634.1324><390.3382><0.4565217~White~0~100~50~86.60254~0~0~None~0~0, 
+MorePalette0: 14, 0.03

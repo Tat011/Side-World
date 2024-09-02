@@ -1,0 +1,13 @@
+Template: RW_SettingsTemplate_SI
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0.15
+Grime: 0.23
+Palette: 74
+EffectColorA: 15
+EffectColorB: 15
+Effects: LightRain-0.3-20-20, 
+PlacedObjects: DayNightSettings><565.379><1265.909><-109~42.66025~33~10, LightSource><814.1239><2026.344><0.4565217~White~0~100~50~86.60254~0~0~None~0~0, LightSource><730.0786><1625.854><0.4021739~White~14~89~-265~96.60254~0~0~None~0~0, LightSource><732.4393><1389.309><0.4021739~White~23~87~-310~-164.3975~0~0~None~0~0, LightSource><2054.1><792.8684><0.4565217~White~0~100~-420~-191.3975~0~0~None~0~0, LightSource><2034.098><347.1207><0.4565217~White~0~100~-146~91.60254~0~0~None~0~0, 
+MorePalette0: 74, 0.03, 0.03, 0.03, 0.03

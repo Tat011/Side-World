@@ -1,0 +1,5 @@
+Template: RW_SettingsTemplate_LC
+EffectColorA: 2
+Effects: LightRain-0.1-20-20, Bloom-0.6-29-83, 
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~35~10, LightSource><490.6655><3469.638><0.4565217~EffectColor1~123~10~181~32.60254~0~1~Flash~0.9021739~0, LightSource><491.0815><3196.142><0.4565217~White~0~100~273~126.6025~0~0~None~0~0, LanternOnStick><542.2964><2603.804><5~-41, DandelionPatch><489.1607><2522.928><-249~200, LightSource><795.2074><105.6954><0.4565217~White~2~103~-964~433.6026~0~0~None~0~0, DandelionPatch><139.0695><94.43756><-74~165, DandelionPatch><790.0068><146.3001><114~183, DandelionPatch><407.6954><978.2075><0~100, LightSource><440.8044><1238.208><0.4565217~White~0~100~-379~-16.39746~0~0~None~0.3478261~0, LightSource><541.1467><1238.829><0.4565217~White~0~100~117~-8.397461~0~0~None~0.6847826~0, DandelionPatch><493.3166><1608.92><-34~107, DandelionPatch><491.9496><3182.987><-239~67, DandelionPeach><591.5519><327.5426><56~60.99994~2~12, DandelionPeach><576.5135><3359.585><-581.9999~-80.00439~2~12, 
+MorePalette0: 33, 0.03, 0.03, 0.03, 0.03, 0.03

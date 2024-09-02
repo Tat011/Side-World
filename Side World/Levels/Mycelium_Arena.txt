@@ -1,0 +1,18 @@
+DenGroup - AIR - 7,8
+
+Creature - Blue - dens:AIR - chance:0.2
+Creature - White - dens:AIR - chance:0.8 - amount:1-2
+Creature - Yellow - dens:4,5 - chance:0.4 - amount:3-6
+
+CreatureGroup - SCAVS - chance:0.3
+Creature - Scavenger - dens:-1 - chance:0.8 - group:SCAVS - amount:5
+
+CreatureGroup - SPIDERS - chance:0.6
+Creature - Big Spider - dens:6,4,5,9 - chance:0.9 - group:SPIDERS - amount:2-4
+Creature - Spitter Spider - dens:6,4,5,9 - chance:0.4 - group:SPIDERS - amount:1
+
+Creature - DropBug - dens:6,4,5,9 - chance:0.5
+
+Creature - Daddy - dens:6,9 - chance:0.15 - RARE
+
+Creature - Cyan - dens:6,4,5,9 - chance:0.3 - amount:1-2 - group:CYANS

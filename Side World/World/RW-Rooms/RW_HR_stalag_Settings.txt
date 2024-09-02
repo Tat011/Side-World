@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_HR
+PlacedObjects: DayNightSettings><-100.1519><950.13><-91~-58.33972~36~33, LightSource><797.3232><1471.094><0.4565217~EffectColor1~0~100~20~-18.39746~0~0~None~0~0, LightSource><166.3142><1531.926><0.4565217~EffectColor1~0~100~-329~-136.3975~0~0~None~0~0, LanternOnStick><653.5862><1353.115><30~-33, NeedleEgg><84.06171><1204.81><-80~-133~2~12, NeedleEgg><916.9208><1296.396><-53~-133~2~12, NeedleEgg><586.2722><620.0513><115~-23~2~12, 
+FadePalette: 75, 0.6, 0.6

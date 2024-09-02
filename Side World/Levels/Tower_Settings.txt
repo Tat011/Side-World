@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 13
+PlacedObjects: MultiplayerItem><500.8457><154.8772><Rock~391.3205~-178~1, MultiplayerItem><439.4467><151.1927><Rock~-533.6795~-179~1, MultiplayerItem><830.9495><314.5156><ExplosiveSpear~70.32056~-239~0.25, MultiplayerItem><591.4131><655.1158><Bomb~-48.6795~-155~0.25, MultiplayerItem><624.8714><235.9031><Spear~133.3205~-81~0.5, MultiplayerItem><282.554><41.1926><Spear~17.32051~-10~0.5, MultiplayerItem><177.9196><652.644><Spear~62.3205~-251~1, MultiplayerItem><807.1985><432.7749><Spear~36.3205~77~0.75, 
+AmbientSounds: OMNI><AM_ENV-Woods.ogg><37.09076><467.8218><0.5><1, OMNI><AM_ENV-Pasture.ogg><31.3031><378.2148><0.3804348><1, 
+FadePalette: 18, 0.6413044

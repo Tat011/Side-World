@@ -1,0 +1,16 @@
+Template: RW_SettingsTemplate_SI
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+Grime: 0.24
+BkgDroneVolume: 0
+Palette: 35
+EffectColorA: 12
+EffectColorB: 13
+Effects: DayNight-1-281-20, PixelShift-0.5-30-30, Flies-0.025-20-20, RockFlea-0.25-20-20, Beetle-0.025-20-20, Wasp-0.025-20-20, LightRain-0.25-20-20, 
+PlacedObjects: DayNightSettings><565.379><1265.909><-109~42.66025~33~10, LightSource><348.3945><146.6117><0.4565217~White~0~100~-272~110.6025~0~0~None~0~0, LightSource><8076.697><165.733><0.4565217~White~0~100~-57~158.6025~0~0~None~0~0, SeedCob><4656.072><234.8441><-126~115~2~14, DeadSeedCob><4591.068><197.4198><, DeadSeedCob><4720.353><212.3285><, 
+AmbientSounds: OMNI><SO_WAT-OpenFlow.ogg><779.651><569.6311><0.4><0.5, OMNI><SO_WAT-RainishDrips.ogg><547.0891><555.8209><0.7><0.5, OMNI><SO_WAT-Splashes.ogg><590.6359><397.4143><0.25><0.8, OMNI><SO_WAT-DripTap.ogg><749.3><276.2468><0.7><0.9, OMNI><AM_ENV-WallHum.ogg><872.3621><493.4156><0.1413043><1, OMNI><AM_IND-SuperStructure.ogg><869.2739><569.1986><0.09782609><1, 
+WetTerrain: OFF
+MorePalette0: 35, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03

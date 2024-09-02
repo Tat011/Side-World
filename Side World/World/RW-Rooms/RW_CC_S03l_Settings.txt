@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_CCinterior
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~3~10,
+MorePalette0: 6, 0.01

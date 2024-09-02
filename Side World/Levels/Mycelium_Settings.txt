@@ -1,0 +1,10 @@
+Template: NONE
+CeilingDrips: 0
+Clouds: 1
+Palette: 14
+EffectColorA: 18
+EffectColorB: 8
+Effects: GreenSparks-0.2826087-20-20, Lightning-0.8043478-26-81, ElectricDeath-1-306-27, 
+PlacedObjects: CoralNeuron><641.85><616.8268><0~-401, WallMycelia><453.61><116.5289><132~103, WallMycelia><770.7822><114.3366><-111~122, CoralStem><505.856><111.2439><104~-74, CoralStem><778.386><103.9843><-122~-67, MultiplayerItem><393.1785><321.9146><Spear~-327.6776~-324.9987~0.7513587, MultiplayerItem><881.4954><333.9196><Spear~154.6082~-301.6578~0.7522457, MultiplayerItem><179.653><349.8512><Bomb~17.32051~-10~0.2525641, MultiplayerItem><1060.059><346.2471><ExplosiveSpear~-41.67944~95~0.2014943, MultiplayerItem><87.30014><327.0087><Rock~-8.680405~-145.9974~1, MultiplayerItem><1001.288><309.8045><Rock~12.60217~-169.979~1, MultiplayerItem><1172.06><315.8094><Rock~-414.8709~-281.187~1, MultiplayerItem><288.4436><310.3041><Spear~-49.72302~-233.9356~0.500347, MultiplayerItem><462.802><309.9825><Spear~17.32051~-10~0.501019, MultiplayerItem><1115.752><308.3405><Spear~-387.6891~152.014~0.5, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><749.6089><493.6082><0.6086956><0.9021739, 
+FadePalette: 17, 0.7065217

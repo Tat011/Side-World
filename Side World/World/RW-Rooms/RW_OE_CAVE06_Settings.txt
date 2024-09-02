@@ -1,0 +1,5 @@
+Template: RW_SettingsTemplate_OEinterior
+EffectColorB: 18
+Effects: Ant-1-20-20, 
+PlacedObjects: DayNightSettings><13.57849><27.60281><-122~-64.33981~76~10, LightSource><831.3479><125.1298><0.4565217~White~0~100~-46~131.6025~0~0~None~0~0, LightSource><607.556><571.808><0.4565217~White~0~100~-166~-156.3975~0~0~None~0~0, LightSource><75.69931><45.01648><0.4565217~White~0~100~-247~42.60254~0~0~None~0~0, PuffBall><208.1707><208.8542><-364~19~2~12, 
+MorePalette0: 53, 0.03, 0.03, 0.03, 0.03

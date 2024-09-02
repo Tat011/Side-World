@@ -1,0 +1,5 @@
+Template: RW_SettingsTemplate_SS
+Effects: SSSwarmers-0.3043478-15-106, 
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~32~33, SuperStructureFuses><-81.67499><635.1854><123~32, SuperStructureFuses><-102.8685><96.91113><137~64, CoralNeuron><866.3865><534.1647><104~-414, CoralStem><240.0782><278.0967><274~-11, CoralStemWithNeurons><241.1453><500.1705><264~0, WallMycelia><160.6891><579.315><204~4, WallMycelia><167.6469><154.5787><263~9, 
+AmbientSounds: OMNI><OM.wav><467.4971><623.8><0.25><1, OMNI><SO_SFX-ColdNight.ogg><735.4719><321.052><0.4><0.5, 
+FadePalette: 17, 0.2

@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_LC
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~35~10, LanternOnStick><555.3><393.4979><16~-79, NeedleEgg><1101.659><700.6215><-103~-127~2~12, ColouredLightSource><224.9148><693.1133><257~-190~FF0000~131^2~1~False~0.5~0.4675515~0.5~Always~0~100, LightSource><174.9499><449.9941><0.4565217~White~0~100~-151~-147.3975~0~0~None~0~0, LightSource><974.5659><331.9219><0.4565217~White~0~100~3~-160.3975~0~0~None~0~0, PlacedPearlChain><249.6414><644.1415><-45~-169~2~14~4~6~4, PlacedPearlChain><220.6852><633.6744><-193.187~-459.9087~2~13~0~5, NeedleEgg><1033.928><714.9365><-238~-115~2~12, DandelionPatch><991.4263><421.4359><-135~124, 
+MorePalette0: 33, 0.03

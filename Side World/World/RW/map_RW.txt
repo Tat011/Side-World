@@ -1,0 +1,412 @@
+RW_SU_A01: -1131><171><-802><78><0><Side World (Suburban)
+RW_SU_A03: -1104><387><-784><222><0><Side World (Suburban)
+RW_SU_A05: -957><204><-686><100><0><Side World (Suburban)
+RW_SU_A11: -957><387><-686><222><1><Side World (Suburban)
+RW_SU_A14: -1128><279><-800><150><0><Side World (Suburban)
+RW_SU_A15: -957><390><-686><224><0><Side World (Suburban)
+RW_SU_A16: -1215><-45><-858><-66><0><Side World (Suburban)
+RW_SU_A21: -1299><171><-914><78><0><Side World (Suburban)
+RW_SU_A26: -1191><63><-842><6><0><Side World (Suburban)
+RW_SU_A27: -957><105><-686><34><0><Side World (Suburban)
+RW_SU_A28: -1413><-165><-990><-146><0><Side World (Suburban)
+RW_SU_B03: -891><162><-718><72><1><Side World (Suburban)
+RW_SU_idk: -1044><0><-746><-36><0><Side World (Suburban)
+RW_SU_S02: -990><369><-708><210><2><Side World (Suburban)
+RW_DU_A03: -165><63><-158><6><0><Side World (Dense Urban)
+RW_DU_A04: -840><606><-608><368><0><Side World (Dense Urban)
+RW_DU_A05: 132><198><40><96><0><Side World (Dense Urban)
+RW_DU_A06: -693><606><-510><368><0><Side World (Dense Urban)
+RW_DU_A07: -471><525><-362><314><0><Side World (Dense Urban)
+RW_DU_A08: -474><417><-364><242><0><Side World (Dense Urban)
+RW_DU_A11: -693><498><-510><296><0><Side World (Dense Urban)
+RW_DU_A12: -288><-42><-240><-64><0><Side World (Dense Urban)
+RW_DU_A13: -564><636><-424><388><0><Side World (Dense Urban)
+RW_DU_A14: -846><498><-612><296><0><Side World (Dense Urban)
+RW_DU_A16: -387><66><-306><8><0><Side World (Dense Urban)
+RW_DU_A20: -627><171><-466><78><0><Side World (Dense Urban)
+RW_DU_B01x: -18><123><-60><4><0><Side World (Dense Urban)
+RW_DU_B02x: -324><330><-264><142><0><Side World (Dense Urban)
+RW_DU_B03: -702><372><-588><212><1><Side World (Dense Urban)
+RW_DU_B03x: -6><306><-166><168><0><Side World (Dense Urban)
+RW_DU_B06: -729><390><-586><224><0><Side World (Dense Urban)
+RW_DU_B09: -477><234><-366><78><0><Side World (Dense Urban)
+RW_GW_A02: -681><-240><-502><-196><0><
+RW_GW_A03: -819><-240><-594><-196><0><
+RW_GW_A09: -303><-147><-250><-134><0><
+RW_GW_A15: -177><-321><-166><-250><0><
+RW_GW_A16: -153><-141><-150><-130><0><
+RW_GW_A17: -177><-225><-166><-186><0><
+RW_GW_A18: -447><-138><-346><-128><0><
+RW_GW_LOWERGATE: -33><-48><-70><-68><0><
+RW_GW_scavVillage: -570><-162><-428><-144><0><
+RW_GW_SUB: 315><-66><34><-126><0><
+RW_SH_A01: 312><363><160><206><0><Side World (Shadow Urban)
+RW_SH_A02: -126><465><-132><274><0><Side World (Shadow Urban)
+RW_SH_A03: 288><201><144><98><0><Side World (Shadow Urban)
+RW_SH_A20: 75><423><2><246><0><Side World (Shadow Urban)
+RW_SH_CLIMB: 435><195><242><52><0><Side World (Shadow Urban)
+RW_UW_ROOT01: 588><285><344><40><0><Side World (Root)
+RW_UW_ROOT02: 444><546><248><290><1><Side World (Root)
+RW_UW_A15: 129><774><38><480><0><Side World (Underhang)
+RW_UW_D08: 357><897><132><520><0><Side World (Underhang)
+RW_UW_grap4: 363><654><14><396><0><Side World (Underhang)
+RW_UW_test1: -36><777><-82><482><0><Side World (Wall)
+RW_SS_A02: 594><882><348><552><0><Side World (Superstructure)
+RW_SS_A05: 432><855><240><534><0><Side World (Superstructure)
+RW_SS_A06: 1356><978><856><616><0><Side World (Superstructure)
+RW_SS_A07: 579><774><338><480><1><Side World (Superstructure)
+RW_SS_O02: 975><975><446><490><0><Side World (Superstructure)
+RW_LC_CITYSHELTER: 438><1884><244><1220><0><
+RW_LC_CITYTOWERS: 96><1713><6><1092><0><Side World (Lost City)
+RW_LC_city_room: 105><1125><0><706><0><Side World (Lost City)
+RW_LC_city_test: 309><1767><136><1136><0><Side World (Lost City)
+RW_LC_stripmall: 507><1635><124><1046><0><Side World (Lost City)
+RW_LC_tallinside: 126><1509><36><970><0><Side World (Lost City)
+RW_LC_subway_redocave: 717><1434><134><878><0><Side World (Lost City)
+RW_LC_theslums: 873><1770><514><1138><0><Side World (Lost City)
+RW_LC_tower_connection: 1203><1623><624><1046><0><Side World (Lost City)
+RW_LC_two_towers_of_DEATH: 63><1320><-28><796><0><Side World (Lost City)
+RW_LC_01a: 594><1767><280><1138><0><Side World (Lost City)
+RW_LC_02b: 1050><2121><652><1164><0><Side World (Lost City)
+RW_LC_S02: 726><1341><436><862><1><
+RW_SL_A01: 1296><-15><816><-46><1><Side World (Shoreline)
+RW_SL_H01: 1800><18><782><-24><0><Side World (Shoreline)
+RW_SL_SPLIT: 1140><-18><712><-48><1><Side World (Shoreline)
+RW_SL_idk: 822><93><344><26><1><Side World (Shoreline)
+RW_SL_E03: 969><-156><388><-182><0><Side World (Shoreline)
+RW_SL_S01: 1053><-180><654><-156><1><
+RW_LM_idk: 2232><591><1440><202><1><Side World (Looks to the Moon)
+RW_LM_WALL01: 2310><249><1430><54><0><Side World (Looks to the Moon)
+RW_DM_ROOF02: 3891><846><2338><528><0><Side World (Depths of Moon)
+RW_DM_ROOFREMAKE: 2892><891><1520><558><0><Side World (Depths of Moon)
+RW_DM_S13: 2427><174><1570><80><1><
+RW_MS_LYMPHATIC: 1242><-546><780><-400><0><Side World (Moon Structure)
+RW_MS_A01: 1392><-519><880><-382><0><Side World (Moon Structure)
+RW_MS_A03: 1461><-435><926><-326><0><Side World (Moon Structure)
+RW_MS_HEARTVENT01: 1143><-327><576><-254><0><Side World (Moon Structure)
+RW_MS_CHAMBTEP: 1314><-435><828><-326><0><Side World (Moon Structure)
+RW_MS_CHAMB01: 1095><-540><682><-396><0><Side World (Moon Structure)
+RW_MS_CHAMB02: 1467><-336><930><-260><0><Side World (Moon Structure)
+RW_MS_ROOF01: 1521><-486><716><-360><1><Side World (Moon Structure)
+RW_MS_ROOF02: 2046><-429><1316><-358><0><Side World (Moon Structure)
+RW_MS_T01: 879><-477><538><-390><0><Side World (Moon Structure)
+RW_MS_X01: 852><-624><520><-452><0><Side World (Moon Structure)
+RW_MS_SC01: 1245><-441><784><-330><0><
+RW_DS_A03: -141><-405><-142><-306><0><Side World (Drainage System)
+RW_DS_A04: -510><-336><-388><-260><1><Side World (Drainage System)
+RW_DS_A12: -165><-498><-158><-368><1><Side World (Drainage System)
+RW_DS_A18: -516><-357><-392><-274><0><Side World (Drainage System)
+RW_DS_B05: -741><-333><-594><-258><0><Side World (Drainage System)
+RW_DS_C02: -348><-429><-286><-408><0><Side World (Drainage System)
+RW_CC_A01: -66><1002><-92><632><0><Side World (Chimney Canopy)
+RW_CC_A03: -660><957><-488><602><0><Side World (Chimney Canopy)
+RW_CC_A05: -999><843><-714><526><0><Side World (Chimney Canopy)
+RW_CC_A11: -1149><843><-814><526><0><Side World (Chimney Canopy)
+RW_CC_B02: -996><960><-768><604><0><Side World (Chimney Canopy)
+RW_CC_B07x: -990><1128><-708><676><0><Side World (Chimney Canopy)
+RW_CC_B09: -1320><948><-984><596><0><Side World (Chimney Canopy)
+RW_CC_C01: -675><843><-612><526><0><Side World (Chimney Canopy)
+RW_CC_C10: -186><888><-286><556><0><Side World (Chimney Canopy)
+RW_CC_S02u: -1218><807><-860><502><1><Side World (Chimney Canopy)
+RW_CC_S03l: -435><543><-338><326><1><Side World (Chimney Canopy)
+RW_SI_A01: -1728><588><-1204><354><0><Side World (Sky Islands)
+RW_SI_A02x: -1701><834><-1186><520><0><Side World (Sky Islands)
+RW_SI_A03: -993><552><-710><332><0><Side World (Sky Islands)
+RW_SI_A03x: -1149><735><-814><454><0><Side World (Sky Islands)
+RW_SI_A09: -1881><912><-1304><570><0><Side World (Sky Islands)
+RW_SI_A10: -1878><693><-1300><426><0><Side World (Sky Islands)
+RW_SI_A11: -1569><669><-1096><410><0><Side World (Sky Islands)
+RW_SI_A12: -1143><519><-810><310><0><Side World (Sky Islands)
+RW_SI_A13: -1881><801><-1302><498><0><Side World (Sky Islands)
+RW_SI_A14: -1527><783><-1066><486><0><Side World (Sky Islands)
+RW_SI_A15: -1428><546><-1000><328><1><Side World (Sky Islands)
+RW_SI_A16: -1293><489><-910><290><0><Side World (Sky Islands)
+RW_SI_A19: -1377><810><-966><504><0><Side World (Sky Islands)
+RW_SI_A22: -1884><1026><-1308><648><0><Side World (Sky Islands)
+RW_SI_A24: -1137><627><-806><382><0><Side World (Sky Islands)
+RW_SI_A25: -1884><582><-1304><352><0><Side World (Sky Islands)
+RW_SI_A26: -1206><423><-852><246><0><Side World (Sky Islands)
+RW_SI_B08: -1638><951><-1196><598><0><Side World (Sky Islands)
+RW_SI_D02: -1671><474><-1318><280><0><Side World (Sky Islands)
+RW_SI_S01: -1845><831><-1278><518><1><
+RW_SI_S02: -1188><639><-840><390><1><
+RW_SB_H01: 474><-699><112><-544><0><Side World (Subterranean)
+RW_SB_TestA: -504><-516><-384><-382><0><Side World (Subterranean)
+RW_SB_TestD: -540><-738><-464><-570><0><Side World (Subterranean)
+RW_SB_TestE: -3><-798><-254><-568><1><Side World (Subterranean)
+RW_SB_Ctest: 588><-795><244><-566><1><Side World (Subterranean)
+RW_SB_DirtTest: -651><-588><-482><-428><0><Side World (Subterranean)
+RW_SB_idk: -60><-606><-192><-440><0><Side World (Subterranean)
+RW_SB_Temple1: 1122><-780><544><-556><1><Side World (Temple)
+RW_SB_Temple2: 1503><-732><954><-524><1><Side World (Temple)
+RW_SB_Temple3: 1884><-732><1052><-524><1><Side World (Temple)
+RW_SB_SLUGEXCLUDER: 2265><-819><1462><-664><1><Side World (Temple)
+RW_GATE_SB_HR: 2412><-873><1560><-618><1><
+RW_HR_A7R: 1449><-927><860><-710><0><Side World (Hell Region)
+RW_HR_AB1: 1344><-1104><848><-814><0><Side World (Hell Region)
+RW_HR_ABNS: 2244><-915><1448><-646><0><Side World (Hell Region)
+RW_HR_BT: 1890><-1347><1212><-934><0><Side World (Hell Region)
+RW_HR_CA1: 2106><-1023><1356><-718><0><Side World (Hell Region)
+RW_HR_CAT: 924><-1455><566><-1008><1><Side World (Hell Region)
+RW_HR_CATT: 1002><-1326><620><-920><0><Side World (Hell Region)
+RW_HR_CR1: 1872><-912><1072><-644><0><Side World (Hell Region)
+RW_HR_FAR1: 1956><-1023><1256><-718><0><Side World (Hell Region)
+RW_HR_intro: 2193><-1467><1308><-1018><0><Side World (Hell Region)
+RW_HR_LAKE: 2199><-1506><1130><-1040><1><Side World (Hell Region)
+RW_HR_LS01: 2601><-1398><1624><-968><0><Side World (Hell Region)
+RW_HR_LS1: 1272><-1293><722><-900><0><Side World (Hell Region)
+RW_HR_NB1: 2538><-990><1644><-696><1><Side World (Hell Region)
+RW_HR_NB2: 2685><-1005><1742><-706><1><Side World (Hell Region)
+RW_HR_NS1: 2391><-978><1546><-688><0><Side World (Hell Region)
+RW_HR_ocean: 144><-1356><-170><-948><0><Side World (Hell Region)
+RW_HR_PillarJump: 2205><-1047><1400><-740><2><Side World (Hell Region)
+RW_HR_shrine: 1197><-1005><750><-706><0><Side World (Hell Region)
+RW_HR_stalag: 2253><-1146><1454><-842><0><Side World (Hell Region)
+RW_HR_TB1: 1881><-1239><1206><-862><0><Side World (Hell Region)
+RW_HR_TBL: 1860><-1131><1192><-790><0><Side World (Hell Region)
+RW_HR_TBOTTOM: 1887><-1455><1210><-1006><0><Side World (Hell Region)
+RW_HR_TBR: 1920><-1131><1232><-790><0><Side World (Hell Region)
+RW_HR_TER: 1269><-1503><630><-1038><0><Side World (Hell Region)
+RW_HR_test1: 2691><-897><1746><-634><1><Side World (Hell Region)
+RW_HR_test3: 1536><-1383><976><-958><0><Side World (Hell Region)
+RW_HR_TP1: 1698><-1491><1066><-1034><0><Side World (Hell Region)
+RW_HR_TTOP: 1827><-1020><1170><-716><0><Side World (Hell Region)
+RW_HR_US1: 2556><-882><1656><-624><1><Side World (Hell Region)
+RW_HR_UTE: 732><-1386><362><-960><0><Side World (Hell Region)
+RW_LF_A08: -1566><-72><-1092><-84><1><Side World (Linear Farms)
+RW_LF_A09: -1509><357><-1066><202><0><Side World (Linear Farms)
+RW_LF_C04: -1446><117><-1012><-44><0><Side World (Linear Farms)
+RW_OE_CAVE06: -2154><-105><-1484><-106><0><Side World (Outer Expanse)
+RW_OE_RUIN20: -2667><-114><-1974><-154><0><Side World (Outer Expanse)
+RW_OE_POWER01: -2298><-177><-1580><-154><0><Side World (Outer Expanse)
+RW_OE_POWER02: -2418><-285><-1672><-226><0><Side World (Outer Expanse)
+RW_OE_POWER03: -1854><-63><-1412><-78><0><Side World (Outer Expanse)
+RW_OE_POWER04: -1827><-174><-1394><-152><1><Side World (Outer Expanse)
+RW_OE_S05: -1563><207><-1090><102><0><
+RW_OE_S02: -2388><-171><-1640><-150><1><
+OffScreenDen_RW: 1326><465><-172><450><1><
+Connection: RW_SU_A01,RW_SU_A05,44,28,1,17,0,2
+Connection: RW_SU_A01,RW_SU_A14,6,26,5,3,2,3
+Connection: RW_SU_A01,RW_SU_B03,35,6,11,9,0,2
+Connection: RW_SU_A01,RW_SU_A26,22,1,42,29,3,0
+Connection: RW_SU_A03,RW_SI_A03,2,33,34,1,2,3
+Connection: RW_SU_A03,RW_SI_A26,2,23,24,11,2,3
+Connection: RW_SU_A03,RW_SU_A15,45,23,1,22,0,2
+Connection: RW_SU_A03,RW_SU_A14,2,7,10,33,2,1
+Connection: RW_SU_A03,RW_SU_A11,42,7,1,7,0,2
+Connection: RW_SU_A05,RW_SU_A27,22,10,22,30,3,1
+Connection: RW_SU_A11,RW_DU_B03,46,7,11,5,0,2
+Connection: RW_SU_A15,RW_SU_S02,21,9,31,18,1,0
+Connection: RW_SU_A15,RW_DU_B06,46,12,1,17,0,2
+Connection: RW_SU_A16,RW_SU_A26,1,29,13,4,2,3
+Connection: RW_SU_A16,RW_SU_A28,1,3,43,32,2,1
+Connection: RW_SU_A21,RW_LF_C04,1,31,45,92,2,0
+Connection: RW_SU_A21,RW_SU_A26,41,1,5,29,3,2
+Connection: RW_SU_A26,RW_SU_idk,34,3,5,22,3,2
+Connection: RW_SU_A27,RW_SU_idk,22,11,48,11,3,0
+Connection: RW_SU_A28,RW_LF_A08,4,32,41,3,1,0
+Connection: RW_SU_B03,RW_DU_A20,109,32,13,18,0,2
+Connection: RW_DU_A03,RW_DU_B01x,45,9,1,10,3,2
+Connection: RW_DU_A03,RW_DU_A12,3,9,44,30,3,1
+Connection: RW_DU_A04,RW_DU_A11,30,17,9,22,3,1
+Connection: RW_DU_A04,RW_DU_A14,6,3,32,31,3,1
+Connection: RW_DU_A04,RW_DU_A06,45,3,1,20,3,2
+Connection: RW_DU_A05,RW_DU_B01x,1,6,43,70,3,0
+Connection: RW_DU_A05,RW_SH_A03,45,6,5,2,3,3
+Connection: RW_DU_A06,RW_DU_A13,47,20,12,16,0,2
+Connection: RW_DU_A06,RW_DU_A11,28,8,39,33,3,1
+Connection: RW_DU_A07,RW_DU_A13,4,29,34,1,2,3
+Connection: RW_DU_A07,RW_CC_S03l,27,24,20,18,3,2
+Connection: RW_DU_A07,RW_DU_A08,4,10,8,33,2,1
+Connection: RW_DU_A08,RW_DU_B02x,46,20,3,66,0,2
+Connection: RW_DU_A08,RW_DU_B06,10,10,96,17,3,0
+Connection: RW_DU_A11,RW_DU_A14,1,12,25,16,2,3
+Connection: RW_DU_A11,RW_DU_B06,39,1,77,32,3,1
+Connection: RW_DU_A12,RW_DU_A16,2,32,35,1,1,3
+Connection: RW_DU_A12,RW_GW_A09,31,4,36,31,0,1
+Connection: RW_DU_A13,RW_CC_C01,34,33,96,13,1,3
+Connection: RW_DU_A14,RW_DU_B06,16,1,3,32,3,1
+Connection: RW_DU_A16,RW_DU_B02x,35,31,3,6,1,2
+Connection: RW_DU_A16,RW_DU_B09,13,31,46,3,1,0
+Connection: RW_DU_A20,RW_DU_B09,34,18,8,1,0,3
+Connection: RW_DU_B01x,RW_GW_LOWERGATE,33,3,38,30,3,1
+Connection: RW_DU_B02x,RW_SH_A02,44,66,1,16,0,2
+Connection: RW_DU_B02x,RW_DU_B03x,44,6,10,18,0,2
+Connection: RW_DU_B03,RW_DU_B09,107,5,5,68,0,2
+Connection: RW_DU_B03x,RW_SH_A01,153,23,10,4,0,3
+Connection: RW_GW_A02,RW_GW_scavVillage,43,21,6,4,1,2
+Connection: RW_GW_A02,RW_GW_A03,7,8,44,8,3,0
+Connection: RW_GW_A03,RW_DS_B05,4,4,4,12,3,2
+Connection: RW_GW_A09,RW_GW_A18,2,31,41,28,2,0
+Connection: RW_GW_A09,RW_GW_A16,45,9,12,23,0,2
+Connection: RW_GW_A15,RW_GW_A17,23,29,23,3,1,3
+Connection: RW_GW_A15,RW_DS_A03,15,8,3,27,2,2
+Connection: RW_GW_A16,RW_GW_LOWERGATE,33,22,4,3,0,2
+Connection: RW_GW_A16,RW_GW_A17,15,9,24,31,2,1
+Connection: RW_GW_A18,RW_GW_scavVillage,9,15,36,23,2,1
+Connection: RW_GW_LOWERGATE,RW_GW_SUB,44,4,6,65,0,1
+Connection: RW_GW_SUB,RW_UW_ROOT01,164,50,9,3,0,3
+Connection: RW_GW_SUB,RW_SL_E03,168,18,5,46,0,2
+Connection: RW_GW_SUB,RW_DS_A03,47,14,45,27,2,1
+Connection: RW_SH_A01,RW_SH_CLIMB,38,4,12,74,3,1
+Connection: RW_SH_A02,RW_SH_A20,41,10,22,32,3,1
+Connection: RW_SH_A03,RW_SH_CLIMB,45,11,6,12,0,2
+Connection: RW_SH_A20,RW_SH_CLIMB,43,5,36,74,0,1
+Connection: RW_SH_CLIMB,RW_UW_ROOT01,45,12,4,18,3,2
+Connection: RW_SH_CLIMB,RW_SL_idk,34,8,9,21,3,3
+Connection: RW_UW_ROOT01,RW_UW_ROOT02,4,140,43,15,1,0
+Connection: RW_UW_ROOT02,RW_UW_grap4,4,59,154,34,2,1
+Connection: RW_UW_A15,RW_UW_D08,45,30,5,10,1,2
+Connection: RW_UW_A15,RW_UW_test1,22,27,50,13,2,0
+Connection: RW_UW_A15,RW_UW_grap4,29,6,22,34,3,1
+Connection: RW_UW_D08,RW_SS_A07,39,8,2,16,3,2
+Connection: RW_UW_D08,RW_SS_A05,80,43,26,31,3,1
+Connection: RW_UW_grap4,RW_SS_A07,207,34,45,15,1,0
+Connection: RW_UW_test1,RW_CC_C10,50,28,138,24,0,3
+Connection: RW_SS_A02,RW_SS_A05,2,22,45,31,2,1
+Connection: RW_SS_A02,RW_SS_O02,38,2,2,86,3,2
+Connection: RW_SS_A06,RW_SS_O02,2,19,200,82,2,0
+Connection: RW_LC_CITYSHELTER,RW_LC_city_test,2,9,56,18,2,0
+Connection: RW_LC_CITYTOWERS,RW_LC_city_test,53,21,56,20,0,0
+Connection: RW_LC_CITYTOWERS,RW_LC_stripmall,29,9,17,27,0,2
+Connection: RW_LC_city_room,RW_LC_two_towers_of_DEATH,8,40,22,15,2,2
+Connection: RW_LC_city_room,RW_CC_A01,32,3,41,18,3,0
+Connection: RW_LC_city_test,RW_LC_01a,56,22,74,19,0,2
+Connection: RW_LC_stripmall,RW_LC_01a,146,34,68,25,1,3
+Connection: RW_LC_stripmall,RW_LC_tallinside,17,12,43,20,2,0
+Connection: RW_LC_stripmall,RW_LC_tower_connection,203,8,12,16,0,2
+Connection: RW_LC_tallinside,RW_LC_subway_redocave,41,15,6,61,0,2
+Connection: RW_LC_tallinside,RW_LC_two_towers_of_DEATH,19,3,51,63,3,0
+Connection: RW_LC_subway_redocave,RW_LC_S02,179,12,28,15,2,2
+Connection: RW_LC_subway_redocave,RW_LC_tower_connection,257,12,12,14,3,2
+Connection: RW_LC_theslums,RW_LC_01a,7,22,98,13,2,0
+Connection: RW_LC_theslums,RW_LC_02b,48,15,11,2,3,3
+Connection: RW_SL_A01,RW_SL_SPLIT,9,21,44,3,3,0
+Connection: RW_SL_A01,RW_SL_H01,34,17,133,28,3,3
+Connection: RW_SL_H01,RW_LM_WALL01,415,20,102,17,0,0
+Connection: RW_SL_H01,RW_SL_E03,33,5,230,72,3,1
+Connection: RW_SL_SPLIT,RW_SL_idk,7,30,186,2,1,3
+Connection: RW_SL_SPLIT,RW_SL_E03,11,7,173,51,3,3
+Connection: RW_SL_E03,RW_SL_S01,148,24,23,11,0,3
+Connection: RW_SL_E03,RW_MS_HEARTVENT01,128,5,34,33,3,0
+Connection: RW_LM_idk,RW_DM_ROOFREMAKE,43,184,16,7,0,2
+Connection: RW_LM_idk,RW_LM_WALL01,31,58,40,102,3,1
+Connection: RW_LM_WALL01,RW_DM_S13,103,39,33,18,0,0
+Connection: RW_DM_ROOF02,RW_DM_ROOFREMAKE,6,23,404,8,2,0
+Connection: RW_MS_LYMPHATIC,RW_MS_CHAMB01,10,19,35,17,2,0
+Connection: RW_MS_LYMPHATIC,RW_MS_A01,43,14,8,5,3,3
+Connection: RW_MS_A01,RW_MS_CHAMBTEP,12,26,24,6,1,3
+Connection: RW_MS_A01,RW_MS_A03,40,4,19,4,3,2
+Connection: RW_MS_A03,RW_MS_CHAMB02,26,29,24,6,0,3
+Connection: RW_MS_HEARTVENT01,RW_MS_T01,3,14,22,68,2,1
+Connection: RW_MS_HEARTVENT01,RW_MS_CHAMB02,181,14,13,17,0,2
+Connection: RW_MS_CHAMBTEP,RW_MS_SC01,13,17,20,16,2,1
+Connection: RW_MS_CHAMB01,RW_MS_ROOF01,24,28,6,16,1,2
+Connection: RW_MS_CHAMB01,RW_MS_X01,13,17,45,3,2,0
+Connection: RW_MS_ROOF01,RW_MS_ROOF02,259,11,6,18,3,2
+Connection: RW_MS_T01,RW_MS_X01,25,4,38,31,3,1
+Connection: RW_MS_X01,RW_SB_H01,4,14,202,60,2,0
+Connection: RW_DS_A03,RW_DS_A12,45,2,9,33,0,1
+Connection: RW_DS_A04,RW_DS_B05,2,18,97,17,3,0
+Connection: RW_DS_A12,RW_DS_C02,1,4,48,59,2,0
+Connection: RW_DS_A18,RW_DS_B05,2,32,97,24,2,0
+Connection: RW_DS_A18,RW_DS_C02,17,4,4,52,2,2
+Connection: RW_DS_C02,RW_SB_TestA,4,14,40,1,2,0
+Connection: RW_DS_C02,RW_SB_idk,49,14,4,13,0,3
+Connection: RW_CC_A01,RW_CC_C10,41,3,138,32,0,1
+Connection: RW_CC_A03,RW_CC_B02,11,26,97,7,3,3
+Connection: RW_CC_A03,RW_CC_C10,33,9,5,28,3,3
+Connection: RW_CC_A05,RW_CC_C01,41,29,14,14,3,3
+Connection: RW_CC_A05,RW_CC_A11,13,6,46,19,3,0
+Connection: RW_CC_A11,RW_CC_B09,11,26,96,3,1,3
+Connection: RW_CC_A11,RW_CC_S02u,1,19,24,24,2,1
+Connection: RW_CC_A11,RW_SI_A03x,11,14,11,26,3,3
+Connection: RW_CC_B02,RW_CC_B07x,54,25,24,8,3,3
+Connection: RW_CC_B02,RW_CC_B09,8,25,90,29,3,3
+Connection: RW_CC_B09,RW_SI_B08,8,17,98,16,3,3
+Connection: RW_CC_B09,RW_SI_A19,29,5,40,32,3,1
+Connection: RW_CC_C01,RW_CC_C10,128,14,12,14,3,3
+Connection: RW_SI_A01,RW_SI_A11,46,31,5,10,3,3
+Connection: RW_SI_A01,RW_SI_A25,4,7,41,8,3,3
+Connection: RW_SI_A02x,RW_SI_A14,46,13,7,30,3,3
+Connection: RW_SI_A02x,RW_SI_A13,5,13,36,28,3,3
+Connection: RW_SI_A03,RW_SI_A24,5,30,28,15,2,3
+Connection: RW_SI_A03,RW_SI_A12,3,3,45,14,3,0
+Connection: RW_SI_A03x,RW_SI_A24,33,9,29,30,3,3
+Connection: RW_SI_A09,RW_SI_A22,23,35,23,15,0,3
+Connection: RW_SI_A09,RW_SI_B08,28,29,7,15,1,3
+Connection: RW_SI_A09,RW_SI_A13,40,5,22,32,3,0
+Connection: RW_SI_A10,RW_SI_A13,25,32,26,7,1,3
+Connection: RW_SI_A10,RW_SI_A25,25,5,33,26,3,1
+Connection: RW_SI_A11,RW_SI_A14,44,21,40,5,3,3
+Connection: RW_SI_A11,RW_SI_A15,28,5,5,25,3,1
+Connection: RW_SI_A12,RW_SI_A16,2,14,43,24,2,0
+Connection: RW_SI_A13,RW_SI_S01,24,27,16,17,1,2
+Connection: RW_SI_A14,RW_SI_A19,45,29,2,20,0,2
+Connection: RW_SI_A15,RW_SI_A16,44,29,7,24,1,2
+Connection: RW_SI_A16,RW_SI_D02,7,10,194,15,2,0
+Connection: RW_SI_A16,RW_SI_A26,43,10,14,19,0,1
+Connection: RW_SI_A24,RW_SI_S02,6,10,23,10,1,3
+Connection: RW_SI_A25,RW_SI_D02,10,6,17,8,3,0
+Connection: RW_SB_H01,RW_SB_idk,2,57,148,5,2,0
+Connection: RW_SB_TestA,RW_SB_TestD,45,17,94,60,0,0
+Connection: RW_SB_TestA,RW_SB_DirtTest,2,4,44,30,2,0
+Connection: RW_SB_TestD,RW_SB_DirtTest,2,65,14,5,2,3
+Connection: RW_SB_TestD,RW_SB_TestE,95,11,3,5,0,2
+Connection: RW_SB_TestE,RW_SB_Ctest,245,5,5,4,0,3
+Connection: RW_SB_Ctest,RW_SB_Temple1,138,10,14,3,3,3
+Connection: RW_SB_Temple1,RW_SB_Temple2,195,22,11,6,0,3
+Connection: RW_SB_Temple2,RW_SB_Temple3,46,16,20,8,0,3
+Connection: RW_SB_Temple3,RW_SB_SLUGEXCLUDER,200,24,5,94,0,2
+Connection: RW_SB_Temple3,RW_HR_CR1,74,5,86,31,3,1
+Connection: RW_SB_SLUGEXCLUDER,RW_GATE_SB_HR,44,32,2,12,0,2
+Connection: RW_GATE_SB_HR,RW_HR_US1,45,12,2,15,0,2
+Connection: RW_HR_A7R,RW_HR_CR1,98,47,3,15,0,2
+Connection: RW_HR_A7R,RW_HR_AB1,24,22,30,67,3,1
+Connection: RW_HR_AB1,RW_HR_shrine,7,62,46,8,2,0
+Connection: RW_HR_AB1,RW_HR_LS1,27,3,90,28,3,1
+Connection: RW_HR_ABNS,RW_HR_NS1,46,28,24,31,0,2
+Connection: RW_HR_ABNS,RW_HR_CR1,4,17,171,16,2,0
+Connection: RW_HR_ABNS,RW_HR_CA1,24,4,32,29,3,1
+Connection: RW_HR_BT,RW_HR_TB1,9,33,14,1,1,3
+Connection: RW_HR_BT,RW_HR_TBOTTOM,9,2,15,33,3,1
+Connection: RW_HR_CA1,RW_HR_FAR1,3,21,42,19,2,3
+Connection: RW_HR_CA1,RW_HR_stalag,33,15,7,76,0,2
+Connection: RW_HR_CAT,RW_HR_UTE,23,31,100,6,0,3
+Connection: RW_HR_CAT,RW_HR_TER,24,1,5,19,3,3
+Connection: RW_HR_CATT,RW_HR_UTE,16,20,117,24,3,1
+Connection: RW_HR_CATT,RW_HR_LS1,36,19,24,9,3,3
+Connection: RW_HR_FAR1,RW_HR_TTOP,6,21,40,12,2,0
+Connection: RW_HR_FAR1,RW_HR_TBR,21,4,33,33,3,1
+Connection: RW_HR_FAR1,RW_HR_PillarJump,36,4,11,20,3,2
+Connection: RW_HR_intro,RW_HR_LS01,151,20,14,17,0,3
+Connection: RW_HR_intro,RW_HR_TBOTTOM,4,11,45,5,2,0
+Connection: RW_HR_LAKE,RW_HR_TP1,6,7,32,5,2,3
+Connection: RW_HR_LS1,RW_HR_test3,121,4,6,7,0,2
+Connection: RW_HR_NB1,RW_HR_US1,22,31,16,4,1,3
+Connection: RW_HR_NB1,RW_HR_NS1,4,16,46,12,2,0
+Connection: RW_HR_NB1,RW_HR_NB2,37,14,13,15,3,2
+Connection: RW_HR_NB2,RW_HR_test1,44,11,10,19,1,2
+Connection: RW_HR_NS1,RW_HR_PillarJump,7,27,58,25,1,0
+Connection: RW_HR_NS1,RW_HR_stalag,6,7,40,73,3,0
+Connection: RW_HR_ocean,RW_HR_UTE,253,13,2,18,0,2
+Connection: RW_HR_TB1,RW_HR_TBL,7,28,14,1,2,3
+Connection: RW_HR_TB1,RW_HR_TBR,39,28,40,8,0,0
+Connection: RW_HR_TBL,RW_HR_TTOP,14,33,25,5,1,3
+Connection: RW_HR_TBL,RW_HR_TBR,21,24,26,24,0,2
+Connection: RW_HR_TBOTTOM,RW_HR_TP1,2,5,55,19,2,0
+Connection: RW_HR_TER,RW_HR_TP1,208,17,10,15,0,2
+Connection: RW_HR_test1,RW_HR_US1,10,22,43,17,2,0
+Connection: RW_HR_test3,RW_HR_TP1,43,7,10,30,3,2
+Connection: RW_LF_A08,RW_OE_POWER03,4,31,155,28,1,0
+Connection: RW_LF_A08,RW_LF_C04,42,30,7,10,0,3
+Connection: RW_LF_A08,RW_OE_POWER04,4,4,129,31,3,1
+Connection: RW_LF_A09,RW_LF_C04,22,25,2,109,3,2
+Connection: RW_LF_C04,RW_OE_S05,2,92,32,19,2,0
+Connection: RW_OE_CAVE06,RW_OE_POWER03,31,28,18,14,0,2
+Connection: RW_OE_CAVE06,RW_OE_POWER04,42,6,24,5,0,2
+Connection: RW_OE_CAVE06,RW_OE_POWER01,2,2,39,26,2,0
+Connection: RW_OE_RUIN20,RW_OE_POWER02,90,14,13,4,2,2
+Connection: RW_OE_RUIN20,RW_OE_POWER01,192,14,7,21,0,3
+Connection: RW_OE_POWER01,RW_OE_S02,10,10,27,8,2,0
+Connection: RW_OE_POWER01,RW_OE_POWER02,7,3,53,33,3,1

@@ -1,0 +1,16 @@
+DangerType: NONE
+RainIntensity: 0
+RumbleIntensity: 0
+CeilingDrips: 1
+Clouds: 0.1413043
+Grime: 0.2065217
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.25
+Palette: 9
+EffectColorA: 3
+EffectColorB: 13
+Effects: DayNight-1-281-20, AboveCloudsView-1-30-30, Fog-0.5-23-82, LightRain-0.45-20-20, RockFlea-0.2-20-20, Beetle-0.2-20-20, TinyDragonFly-0.1-20-20, RedSwarmer-0.1-20-20, Wasp-1-20-20,
+AmbientSounds: OMNI><SO_WAT-OpenFlow.ogg><779.651><569.6311><0.35><1, OMNI><SO_WAT-RainishDrips.ogg><547.0891><555.8209><0.75><1, OMNI><SO_WAT-Splashes.ogg><590.6359><397.4143><0.25><1, OMNI><SO_WAT-DripTap.ogg><749.3><276.2468><0.75><1, OMNI><AM_ENV-WinterTrees.ogg><832.8128><652.1899><0.5><1, OMNI><AM_ENV-LightWind.ogg><658.1191><654.9012><0.4565217><0.8826087,
+BackgroundOffset: 0,0
+BackgroundType: atc_default_msc
+WetTerrain: ON

@@ -1,0 +1,5 @@
+Template: RW_SettingsTemplate_SI
+Effects: BorderPushBack-1-30-30, 
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~3~10, LillyPuck><728.0055><183.0501><75~-131~2~12, LillyPuck><546.1951><183.2065><-14~-136~2~12, LillyPuck><364.8845><183.0867><-101~-169~2~12, LillyPuck><189.8882><185.0841><-375~-89~2~12, SeedCob><939.45><571.4437><-299~-61~2~20, DeadSeedCob><1008.584><566.3185><, LightSource><-90.67334><287.0999><0.4021739~EffectColor1~0~100~-95~105.6025~0~0~None~0~0, LightSource><1063.124><289.9055><0.4021739~EffectColor1~0~100~-257~108.6025~0~0~None~0~0, LightSource><901.4455><288.7081><0.4565217~White~0~100~-385~96.60254~0~0~None~0~1, LightSource><75.28439><287.947><0.4565217~White~0~100~115~272.6025~0~0~None~0~0, DandelionPatch><-38.84326><502.9269><140~118, RainbowNoFade><427.5824><330.1091><-75~378~-229~-181~1|1|1|1|0.5543478|0.15, 
+AmbientSounds: OMNI><AM_WAT-Lakeside.ogg><274.9026><510.8253><0.7><1, 
+MorePalette0: 2, 0.03

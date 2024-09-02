@@ -1,0 +1,12 @@
+{
+   "id": "SideHouse2",
+   "name": "Side World",
+   "version": "1.0",
+   "target_game_version": "v1.9.15b",
+   "authors": "Made by Tat011, original version by AndrewFM, custom threat music by Mikronaut",
+   "description": "This is the Downpour version of Side House, featuring a rather different world state to acomodate the large ammount of new rooms.",
+   "requirements": ["moreslugcats", "District4B", "drainmites", "myr.moss_fields", "Croken.bombardier-vulture", "shrimb.scroungers", "shrouded_assembly"],
+   "requirements_names": ["More Slugcats Expansion", "Probationary District 4B", "Drain Mites", "Moss Fields", "Bombardier Vulture", "Scroungers", "Shrouded Assembly"],
+   "tags": ["Regions"],
+   "checksum_override_version": false
+}

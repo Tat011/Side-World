@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_SL
+PlacedObjects: DayNightSettings><31.57849><94.60281><-107~-103.3398~34~10, JellyFish><15.72449><330.8016><-181~222~2~14, ReliableSpear><104.0391><207.9461><, JellyFish><836.8091><330.6904><38~-173~2~14, LightSource><185.3356><453.8638><0.4565217~White~0~100~-5~-181.3975~0~0~None~0~0, LightSource><692.2342><371.8006><0.4565217~White~0~100~50~86.60254~0~0~None~0~0, 
+MorePalette0: 13, 0.03

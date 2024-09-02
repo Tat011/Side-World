@@ -1,0 +1,10 @@
+Template: RW_SettingsTemplate_OEinterior
+Clouds: 1
+Grime: 0.2
+Palette: 14
+EffectColorA: 0
+EffectColorB: 2
+Effects: Contrast-0.35-290-30, Ant-1-20-20, 
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~76~10, ZapCoil><551.4099><206.6299><38~352, ZapCoil><422.9088><495.1283><44~54, LightFixture><1067.24><677.5503><RedLight~-168.6795~-78~63, LightFixture><286.4481><172.7782><RedLight~33.32053~-190~48, LightFixture><799.4045><32.12299><RedLight~-74.6795~-92~73, DataPearl><339.4418><550.1932><-337~-257~0~9~Misc~0, LightFixture><440.8><541.7556><ZapCoilLight~23.3205~45~49, LightFixture><569.0271><389.9481><ZapCoilLight~17.32051~-10~35, LightSource><1074.629><649.4095><0.4565217~White~0~100~-362~-153.3975~0~0~None~0~0, LightSource><298.5945><86.62421><0.4565217~White~0~100~-280~-21.39746~0~0~None~0~0, LightSource><868.5699><328.663><0.4021739~White~-9~91~-865~196.6025~0~0~None~0~0, LightSource><869.6844><85.67249><0.4021739~White~12~91~-862~327.6025~0~0~None~0~0, ZapCoil><427.3001><208.7517><41~94, 
+AmbientSounds: OMNI><SO_WAT-Splashes.ogg><226.0948><253.9261><0><1, OMNI><AM_IND-ElectricHum01.ogg><538.8691><464.0893><0.5><1, SPOT><AM_ENV-NatWind.ogg><734.9422><489.1946><0.8478261><1><1076.942><639.1946><-37.35535><-99.35535><0><0.1869567, SPOT><AM_ENV-NatWind.ogg><730.3749><375.9062><0.8260869><1><266.3749><85.90627><88.64465><4.644653><0><0.252174, SPOT><SO_WAT-Splashes.ogg><739.2126><171.4465><0.3043478><1><291.2126><89.4465><-35.35534><-35.35534><0><0.3173914, SPOT><SO_WAT-Splashes.ogg><740.0737><37.34433><0.3043478><1><1078.074><661.3444><-35.35535><-69.35535><0><0.2956523, 
+FadePalette: 10, 0.5

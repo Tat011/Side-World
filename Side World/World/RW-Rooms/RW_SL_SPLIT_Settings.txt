@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_SLinterior
+Effects: WaterGlowworm-1-273-40,
+PlacedObjects: DayNightSettings><90.57849><88.60281><-183~-93.33981~20~10, LightSource><145.95><588.0015><0.4565217~White~0~100~-320~-74.39746~0~0~None~0~0, LightSource><876.4572><64.80466><0.4565217~White~0~100~-101~63.60254~0~0~None~0~0, LightSource><228.6544><169.8729><0.4565217~White~0~100~-21~-140.3975~0~0~None~0~0, 
+MorePalette0: 34, 0.03

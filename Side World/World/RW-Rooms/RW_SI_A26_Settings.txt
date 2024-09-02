@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_SIinterior
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~18~10, LightSource><288.4483><365.7237><0.4565217~White~0~100~-104~143.6025~0~0~None~0~0, LightSource><490.4777><248.4487><0.4565217~White~0~100~47~-149.3975~0~0~None~0~0, 
+MorePalette0: 2, 0.03

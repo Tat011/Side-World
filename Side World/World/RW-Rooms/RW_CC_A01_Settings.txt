@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_CC
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~3~10, SeedCob><250.8806><591.1515><23~29~1~12, DeadSeedCob><306.0518><580.6932><, LightSource><814.006><369.9499><0.4565217~White~0~100~41.00006~-137.3975~0~0~None~0~0, LightSource><812.2844><65.44702><0.4565217~White~0~100~39.00006~-67.39746~0~0~None~0~0, LightSource><812.889><209.8336><0.4021739~White~9~93~38~-95.39746~0~0~None~0~0, LightSource><871.8958><491.0793><0.4021739~White~11~92~8~-140.3975~0~0~None~0~0, NeedleEgg><561.1152><584.6478><0~0~2~12, DandelionPatch><270.7892><473.4461><1~73, DandelionPatch><321.5521><171.7498><1~101, DandelionPatch><729.8873><181.1445><-8~86, 
+MorePalette0: 6, 0.01

@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_SU
+EffectColorA: 8
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~35~10, LightSource><52.30569><146.4458><0.4592909~White~0~100~-87.53094~-181.8318~0~0~None~0~0, LightSource><910.2089><146.0924><0.4513391~White~0~100~-147.5178~-159.8889~0~0~None~0~0, NeedleEgg><109.5187><467.2843><-209.9542~81.92004~5~10,
+MorePalette0: 0, 0.03

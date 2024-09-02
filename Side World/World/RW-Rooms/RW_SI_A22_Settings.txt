@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_SI
+PlacedObjects: DayNightSettings><67.57849><56.60281><-150~-83.33981~3~10, DandelionPatch><501.9095><301.3705><76~95, RainbowNoFade><894.3901><72.35733><375~408~37~-70~1|1|0.5869565|0.4021739|0.8369565|0.5086955, LightSource><469.4298><331.3376><0.4565216~White~0~100~-617~-274.3975~0~0~None~0~0, LightSource><699.1979><523.9714><0.4021739~EffectColor1~0~100~-852~-165.3975~0~0~None~0~0, LightSource><539.2><516.9995><0.4130435~EffectColor1~0~100~-695~-262.3975~0~0~None~0~0, LightSource><380.137><522.8542><0.4021739~EffectColor1~0~100~-536~-368.3975~0~0~None~0~0, 
+MorePalette0: 2, 0.03

@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_SS
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~32~33, LightSource><892.1997><310.0115><0.4565217~White~0~100~-189~103.6025~0~0~None~0~0, LightSource><65.19098><327.9406><0.4565217~White~0~100~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><774.3602><490.607><0.5543478><0.7652174, OMNI><OM.wav><720.3134><335.5719><0.4021739><1, 

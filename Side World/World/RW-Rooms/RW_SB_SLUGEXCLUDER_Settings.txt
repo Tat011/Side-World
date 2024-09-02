@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_SB
+Effects: VoidMelt-0.2-82-94, 
+PlacedObjects: DayNightSettings><143.5785><441.6028><-150~-87.33981~18~43, LightSource><132.4497><1887.76><0.4565217~White~0~100~-281~69.60254~0~0~None~0~0, LightFixture><590.9988><1927.949><HolyFire~17.32051~-10~1, LightFixture><390.166><1947.861><HolyFire~-194.6795~150~55, LightSource><878.8339><651.8613><0.4565217~White~0~100~-66~83.60254~0~0~None~0~0, LightFixture><571.5436><301.8048><HolyFire~17.32051~-10~83, LightFixture><410.6199><344.1601><HolyFire~-338.6795~-138~26, 
+FadePalette: 75, 0.25, 0.3043478, 0.3586957

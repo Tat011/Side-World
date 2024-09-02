@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_HR
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~36~33, LightFixture><602.6337><648.0873><HolyFire~-571.6795~11~48, LightSource><1154.798><510.4442><0.4565217~EffectColor1~0~100~-126~162.6025~0~0~None~0~0, LightSource><248.8865><408.1038><0.4565217~EffectColor1~0~100~-221~145.6025~0~0~None~0~0, NeedleEgg><566.0741><584.1548><-72~-143~2~12, 
+FadePalette: 75, 0.6086956

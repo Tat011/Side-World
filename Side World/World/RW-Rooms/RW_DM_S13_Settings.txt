@@ -1,0 +1,12 @@
+Template: RW_SettingsTemplate_SIinterior
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+Grime: 0.24
+BkgDroneVolume: 0
+Palette: 35
+PlacedObjects: DayNightSettings><565.379><1265.909><-109~42.66025~33~10, LightSource><654.627><369.1545><0.4565217~White~0~100~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><SO_WAT-OpenFlow.ogg><779.651><569.6311><0.4><0.5, OMNI><SO_WAT-RainishDrips.ogg><547.0891><555.8209><0.7><0.5, OMNI><SO_WAT-Splashes.ogg><590.6359><397.4143><0.25><0.8, OMNI><SO_WAT-DripTap.ogg><749.3><276.2468><0.7><0.9, OMNI><AM_ENV-WallHum.ogg><872.3621><493.4156><0.1413043><1, OMNI><AM_IND-SuperStructure.ogg><869.2739><569.1986><0.09782609><1, 
+MorePalette0: 35, 0.03

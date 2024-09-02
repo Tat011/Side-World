@@ -1,0 +1,2 @@
+Template: RW_SettingsTemplate_HR
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~36~33, LightSource><793.9384><246.6827><0.4565217~EffectColor1~0~100~51~110.6025~0~0~None~0~0, LightSource><509.7576><137.5501><1~EffectColor1~0~100~-292~-118.3975~0~0~None~0~0, LightFixture><531.6521><346.6201><HolyFire~17.32051~-10~24, LightFixture><409.8126><187.31><RedLight~-338.6795~94~7, 
