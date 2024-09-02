@@ -9,6 +9,6 @@ RandomItemSpearChance: 0
 Palette: 24
 EffectColorA: 0
 EffectColorB: 12
-Effects: DayNight-1-281-20, ZeroG-1-20-20, ZeroGSpecks-0.2934783-279-79, SunBlock-1-20-20, ProjectedScanLines-1-20-20, SuperStructureProjector-1-20-20,
+Effects: DayNight-1-281-20, ZeroG-1-20-20, ZeroGSpecks-0.2934783-279-79, SunBlock-1-20-20, ProjectedScanLines-1-20-20, SuperStructureProjector-1-20-20, SSSwarmers-0,2-15-106,
 AmbientSounds: OMNI><SO_SFX-Drowning.ogg><831.3088><652.4413><0.2><1, OMNI><AM_IND-SuperStructure.ogg><830.6804><648.8125><0.4><1,
 WetTerrain: OFF

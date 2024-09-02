@@ -242,7 +242,8 @@ RW_OE_S02 : RW_OE_POWER01 : SHELTER
 END ROOMS
 CREATURES
 //OFFSCREEN
-OFFSCREEN : 0-MirosBird-5, 0-MiniLeviathan-{Ignorecycle}-6, 0-Leviathan-{Ignorecycle}-4, 0-FlyingBigEel-{Ignorecycle}-12, 0-KingVulture-{Ignorecycle}-8, 0-MirosVulture-{Ignorecycle}-8, 0-MirosVulture-{Night}-3, 0-FatFireFly-{Night}-5, 0-FatFireFly-{Ignorecycle}-9, 0-FogVulture-{Ignorecycle}-9, 0-Bombadier-{Ignorecycle}-6, 0-Scavenger-{Ignorecycle}-25, 0-ScavengerElite-{Ignorecycle}-100, 0-ScavengerElite-{Night}-165, 0-Scrounger-{Ignorecycle}-100, 0-DrainMite-200, 0-Deer-5
+OFFSCREEN : 0-MirosBird-{Ignorecycle}-5, 0-MiniLeviathan-{Ignorecycle}-6, 0-Leviathan-{Ignorecycle}-4, 0-FlyingBigEel-{Ignorecycle}-12, 0-KingVulture-{Ignorecycle}-8, 0-MirosVulture-{Ignorecycle}-6, 0-FatFireFly-{Ignorecycle}-8, 0-FatFireFly-{Night}-8, 0-FogVulture-{Ignorecycle}-8, 0-Bombadier-{Ignorecycle}-5, 0-Scavenger-{Ignorecycle}-25, 0-ScavengerElite-{Ignorecycle}-100, 0-ScavengerElite-{Night}-125, 0-Scrounger-{Ignorecycle}-100, 0-DrainMite-250, 0-Deer-5
+(Inv)OFFSCREEN : 0-Overseer-400
 LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
 LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
 LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
@@ -251,46 +252,6 @@ LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
 LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
 LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
 LINEAGE : OFFSCREEN : 0 : Vulture-1, KingVulture-1, MirosVulture-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
-LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
 LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
 LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0
 LINEAGE : OFFSCREEN : 0 : Scavenger-1, Scrounger-1, ScavengerElite-0

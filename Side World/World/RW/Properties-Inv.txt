@@ -17,16 +17,16 @@ rivStormyPreCycleChance: 0
 forcePreCycleChance: 0
 
 kelpColor: 0.6,0,0.6
-batFlyGlowColor: 1,1,1
+batGlowColor: 1,1,1
 dragonflyColor: 1,0,1
 wormGrassLight: true
 rotEyeColor: BrotherLongLegs-323232,DaddyLongLegs-ffff00,TerrorLongLegs-F400FF,HunterDaddy-530000
 rotEffectColor: BrotherLongLegs-323232,DaddyLongLegs-ffff00,TerrorLongLegs-F400FF,HunterDaddy-530000
 
-scavGearItems: ExplosiveSpear-0.2,ElectricSpear-0.33,HellSpear-0.33,Lantern-0.25,GlowWeed-0.25,LillyPuck-0.075,FireEgg-0.035,WaterNut-0.05,FirecrackerPlant-0.05,FlareBomb-0.05,SporePlant-0.075,PuffBall-0.05,VultureGrub-0.075,Hazer-0.075,Jellyfish-0.075,VultureMask-0.025,KarmaFlower-0.03,DangleFruit-0.05,SlimeMold-0.05,DandelionPeach-0.05,GooieDuck-0.05,FlyLure-0.05,Mushroom-0.05,NeedleEgg-0.05,Seed-0.05,OverseerCarcass-0.05,DataPearl-0.2,ScavengerBomb-0.25,Rock-1
-eliteScavGearItems: HellSpear-0.33,Lantern-0.2,GlowWeed-0.2,LillyPuck-0.1,FireEgg-0.04,WaterNut-0.05,FirecrackerPlant-0.075,FlareBomb-0.075,SporePlant-0.1,PuffBall-0.075,VultureGrub-0.1,Hazer-0.1,Jellyfish-0.1,KarmaFlower-0.03,DangleFruit-0.03,SlimeMold-0.03,DandelionPeach-0.03,GooieDuck-0.03,FlyLure-0.03,Mushroom-0.03,NeedleEgg-0.03,Seed-0.03,OverseerCarcass-0.05,DataPearl-0.2,ScavengerBomb-1
-scavScoreItems: DataPearl-10,KarmaFlower-5,VultureMask-5,SporePlant-4,ExplosiveSpear-4,ScavengerBomb-4,FireEgg-3,Lantern-3,Spear-3,PuffBall-2,FlareBomb-2,Mushroom-2,FirecrackerPlant-2,JellyFish-2,DangleFruit-2,WaterNut-2,SlimeMold-2,DandelionPeach-2,GooieDuck-2,GlowWeed-2,VultureGrub-2,Hazer-2,NeedleEgg-2,FlyLure-1,Seed-1,Rock-1
-dropwigBaitItems: Lantern-0.25,GlowWeed-0.25,ElectricSpear-0.25,ExplosiveSpear-0.25,HellSpear-0.25,ScavengerBomb-0.25,DataPearl-0.25,LillyPuck-0.2,WaterNut-0.1,FirecrackerPlant-0.1,FlareBomb-0.1,PuffBall-0.1,VultureGrub-0.1,DangleFruit-0.1,SlimeMold-0.1,DandelionPeach-0.1,GooieDuck-0.1,FlyLure-0.05,Mushroom-0.1,Seed-0.05,OverseerCarcass-0.1,KarmaFlower-1
+scavGearItems: ExplosiveSpear-0.2,ElectricSpear-0.33,HellSpear-0.33,Lantern-0.25,GlowWeed-0.2,LillyPuck-0.075,FireEgg-0.035,WaterNut-0.05,FirecrackerPlant-0.05,SporePlant-0.075,PuffBall-0.05,VultureGrub-0.075,Hazer-0.075,Jellyfish-0.075,VultureMask-0.025,KarmaFlower-0.05,Mushroom-0.05,ScavengerBomb-1
+eliteScavGearItems: HellSpear-0.33,Lantern-0.2,GlowWeed-0.2,LillyPuck-0.1,FireEgg-0.04,WaterNut-0.05,FirecrackerPlant-0.075,SporePlant-0.1,PuffBall-0.075,VultureGrub-0.1,Hazer-0.1,Jellyfish-0.1,KarmaFlower-0.03,Mushroom-0.03,ScavengerBomb-1
+scavScoreItems: ScavengerBomb-4,FireEgg-3,JellyFish-2,WaterNut-2,GlowWeed-2,VultureGrub-2,Hazer-2
+dropwigBaitItems: Lantern-0.25,GlowWeed-0.25,ElectricSpear-0.25,ExplosiveSpear-0.25,HellSpear-0.25,ScavengerBomb-0.25,DataPearl-0.25,WaterNut-0.1,FirecrackerPlant-0.1,VultureGrub-0.1,DangleFruit-0.1,GooieDuck-0.1,FlyLure-0.1,Mushroom-0.1,Seed-0.1,OverseerCarcass-0.1,KarmaFlower-1
 
 Subregion: I'm sorry (not really).
 Subregion: You can unlock the rest of this message for 5.99$!
@@ -34,7 +34,7 @@ Subregion: House of sus.
 Subregion: This is the only thing you can see clearly lol
 Subregion: Don't look down!
 Subregion: The Cave Salamander will rise again.
-Subregion: 011010101001010111010101001011101011010001101001011011010010110101101000110100101101101001010101110101000101011011010010110110
+Subregion: 01101010100101011101010100101110101101000110100101101101001011010110100011010010110110100101010111010100010101101101001011011001101010100101011101010100101110101
 Subregion: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 Subregion: I'm on break.
 Subregion: RELEASE ME!
@@ -81,21 +81,21 @@ Room_Attr: RW_OE_RUIN20: DropBug-Like,BlueLizard-Like,WhiteLizard-Like,CyanLizar
 Room_Attr: RW_OE_POWER01: DropBug-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,EggBug-Avoid,BigNeedleWorm-Avoid,SmallNeedleWorm-Avoid,CicadaA-Avoid,CicadaB-Avoid,
 Room_Attr: RW_OE_POWER02: DropBug-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,EggBug-Avoid,BigNeedleWorm-Avoid,SmallNeedleWorm-Avoid,CicadaA-Avoid,CicadaB-Avoid,
 Room_Attr: RW_OE_POWER03: BigNeedleWorm-Like,SmallNeedleWorm-Like,Deer-Forbidden,CicadaA-Like,CicadaB-Like,
-Room_Attr: RW_OE_POWER04: DropBug-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,EggBug-Avoid,BigNeedleWorm-Avoid,SmallNeedleWorm-Avoid,CicadaA-Avoid,CicadaB-Avoid,
+Room_Attr: RW_OE_POWER04: DropBug-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,EggBug-Avoid,BigNeedleWorm-Avoid,SmallNeedleWorm-Avoid,CicadaA-Avoid,CicadaB-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_OE_S02: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,
 Room_Attr: RW_OE_S05: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,
 
 //Linear Farms
-Room_Attr: RW_LF_A08: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,BigNeedleWorm-Avoid,SmallNeedleWorm-Avoid,SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,CicadaA-Avoid,CicadaB-Avoid,
+Room_Attr: RW_LF_A08: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,BigNeedleWorm-Avoid,SmallNeedleWorm-Avoid,SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,CicadaA-Avoid,CicadaB-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_LF_A09: SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,Deer-Stay,
 Room_Attr: RW_LF_C04: SmallCentipede-Like,Centipede-Like,RedCentipede-Like,Scutigera-Like,
 
 //Suburban
-Room_Attr: RW_SU_A26: noodleeater-Avoid,BabyCroaker-Avoid,SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,GreenLizard-Avoid,SpitLizard-Avoid,WaterSpitter-Avoid,RedLizard-Avoid,BlackLizard-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,CicadaA-Avoid,CicadaB-Avoid,LanternMouse-Avoid,
-Room_Attr: RW_SU_A28: noodleeater-Avoid,BabyCroaker-Avoid,SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,BlackLizard-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,CicadaA-Avoid,CicadaB-Avoid,LanternMouse-Avoid,
+Room_Attr: RW_SU_A26: noodleeater-Avoid,BabyCroaker-Avoid,SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,GreenLizard-Avoid,SpitLizard-Avoid,WaterSpitter-Avoid,RedLizard-Avoid,BlackLizard-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,CicadaA-Avoid,CicadaB-Avoid,LanternMouse-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_SU_A28: noodleeater-Avoid,BabyCroaker-Avoid,SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,BlackLizard-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,CicadaA-Avoid,CicadaB-Avoid,LanternMouse-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_SU_A16: noodleeater-Avoid,BabyCroaker-Avoid,SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,
 Room_Attr: RW_SU_S02: noodleeater-Avoid,BabyCroaker-Avoid,BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,
-Room_Attr: RW_SU_A27: noodleeater-Avoid,BabyCroaker-Avoid,GreenLizard-Avoid,SpitLizard-Avoid,WaterSpitter-Avoid,RedLizard-Avoid,
+Room_Attr: RW_SU_A27: noodleeater-Avoid,BabyCroaker-Avoid,GreenLizard-Avoid,SpitLizard-Avoid,WaterSpitter-Avoid,RedLizard-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 
 Room_Attr: RW_SU_A21: noodleeater-Avoid,BabyCroaker-Avoid,CicadaA-Like,CicadaB-Like,EggBug-Like,SmallNeedleWorm-Like,BigNeedleWorm-Like,BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,LanternMouse-Like,
 Room_Attr: RW_SU_A01: noodleeater-Avoid,BabyCroaker-Avoid,CicadaA-Like,CicadaB-Like,EggBug-Like,SmallNeedleWorm-Like,BigNeedleWorm-Like,BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,LanternMouse-Like,
@@ -108,22 +108,22 @@ Room_Attr: RW_SU_A15: noodleeater-Avoid,BabyCroaker-Avoid,CicadaA-Like,CicadaB-L
 Room_Attr: RW_SU_B03: noodleeater-Avoid,BabyCroaker-Avoid,CicadaA-Like,CicadaB-Like,EggBug-Like,SmallNeedleWorm-Like,BigNeedleWorm-Like,GreenLizard-Stay,SpitLizard-Stay,WaterSpitter-Stay,RedLizard-Stay,
 
 //Dense Urban
-Room_Attr: RW_DU_A20: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,
-Room_Attr: RW_DU_A13: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,
-Room_Attr: RW_DU_A05: Deer-Stay,BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,
+Room_Attr: RW_DU_A20: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_DU_A13: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_DU_A05: Deer-Stay,BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 
 Room_Attr: RW_DU_A04: Deer-Stay,
-Room_Attr: RW_DU_A14: TubeWorm-Stay,
+Room_Attr: RW_DU_A14: TubeWorm-Stay,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_DU_A08: TubeWorm-Stay,
 
 Room_Attr: RW_DU_A06: BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,
-Room_Attr: RW_DU_A07: SmallCentipede-Like,BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,
+Room_Attr: RW_DU_A07: SmallCentipede-Like,BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 
-Room_Attr: RW_DU_A11: noodleeater-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,
-Room_Attr: RW_DU_A12: EggBug-Like,
+Room_Attr: RW_DU_A11: noodleeater-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_DU_A12: EggBug-Like,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_DU_A03: TubeWorm-Avoid,EggBug-Avoid,
 
-Room_Attr: RW_DU_A16: CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,
+Room_Attr: RW_DU_A16: CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_DU_B01x: PinkLizard-Stay,WaterSpitter-Stay,DropBug-Like,BabyCroaker-Like,noodleeater-Like,BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,
 Room_Attr: RW_DU_B02x: DropBug-Like,BabyCroaker-Like,noodleeater-Like,BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,
 Room_Attr: RW_DU_B03: GreenLizard-Stay,PinkLizard-Stay,WaterSpitter-Stay,SpitLizard-Stay,RedLizard-Stay,TrainLizard-Stay,CicadaA-Like,CicadaB-Like,
@@ -133,23 +133,23 @@ Room_Attr: RW_DU_B09: DropBug-Like,BabyCroaker-Like,noodleeater-Like,BlueLizard-
 
 //Shadow Urban
 Room_Attr: RW_SH_A02: Deer-Forbidden,MirosBird-Stay,BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,
-Room_Attr: RW_SH_A20: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,
+Room_Attr: RW_SH_A20: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 
 Room_Attr: RW_SH_A01: Deer-Stay,LanternMouse-Like,BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,
 Room_Attr: RW_SH_A03: LanternMouse-Like,BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,
 Room_Attr: RW_SH_CLIMB: LanternMouse-Like,BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,
 
 //Garbage Wastes
-Room_Attr: RW_GW_LOWERGATE: BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,Centipede-Avoid,SmallCentipede-Like,Scutigera-Avoid,
+Room_Attr: RW_GW_LOWERGATE: BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,Centipede-Avoid,SmallCentipede-Like,Scutigera-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_GW_SUB: BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,Centipede-Like,SmallCentipede-Like,Scutigera-Like,EggBug-Like,FireBug-Like,
-Room_Attr: RW_GW_A02: Centipede-Avoid,Scutigera-Avoid,
-Room_Attr: RW_GW_A03: Centipede-Avoid,Scutigera-Avoid,
-Room_Attr: RW_GW_A09: Centipede-Avoid,Scutigera-Avoid,
-Room_Attr: RW_GW_A15: Centipede-Avoid,Scutigera-Avoid,
-Room_Attr: RW_GW_A16: Centipede-Avoid,Scutigera-Avoid,
-Room_Attr: RW_GW_A17: Centipede-Avoid,Scutigera-Avoid,
-Room_Attr: RW_GW_A18: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,
-Room_Attr: RW_GW_scavVillage: SmallCentipede-Stay,Centipede-Stay,Scutigera-Stay,RedCentipede-Stay,
+Room_Attr: RW_GW_A02: Centipede-Avoid,Scutigera-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_GW_A03: Centipede-Avoid,Scutigera-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_GW_A09: Centipede-Avoid,Scutigera-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_GW_A15: Centipede-Avoid,Scutigera-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_GW_A16: Centipede-Avoid,Scutigera-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_GW_A17: Centipede-Avoid,Scutigera-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_GW_A18: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_GW_scavVillage: SmallCentipede-Stay,Centipede-Stay,Scutigera-Stay,RedCentipede-Stay,Scavenger-Stay,ScavengerElite-Stay,Scrounger-Stay,
 
 //Drainage System
 Room_Attr: RW_DS_C02: Salamander-Like,EelLizard-Like,Snail-Like,bouncingball-Like,
@@ -167,13 +167,13 @@ Room_Attr: RW_SI_A11: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfl
 Room_Attr: RW_SI_A12: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,Snail-Stay,bouncingball-Stay,
 Room_Attr: RW_SI_A13: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
 Room_Attr: RW_SI_A14: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
-Room_Attr: RW_SI_A15: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Avoid,hoverfly-Avoid,
-Room_Attr: RW_SI_A16: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Avoid,hoverfly-Avoid,
-Room_Attr: RW_SI_A19: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Avoid,hoverfly-Avoid,
+Room_Attr: RW_SI_A15: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Avoid,hoverfly-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_SI_A16: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Avoid,hoverfly-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_SI_A19: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Avoid,hoverfly-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_SI_A22: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
 Room_Attr: RW_SI_A24: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
 Room_Attr: RW_SI_A25: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
-Room_Attr: RW_SI_A26: noodleeater-Avoid,BabyCroaker-Avoid,CicadaA-Forbidden,CicadaB-Forbidden,Blue-Forbidden,WhiteLizard-Forbidden,CyanLizard-Forbidden,hunterseeker-Forbidden,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,hoverfly-Avoid,
+Room_Attr: RW_SI_A26: noodleeater-Avoid,BabyCroaker-Avoid,CicadaA-Forbidden,CicadaB-Forbidden,Blue-Forbidden,WhiteLizard-Forbidden,CyanLizard-Forbidden,hunterseeker-Forbidden,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,hoverfly-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_SI_B08: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,YellowLizard-Like,
 Room_Attr: RW_SI_D02: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
 
@@ -181,7 +181,7 @@ Room_Attr: RW_SI_D02: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfl
 Room_Attr: RW_CC_A01: noodleeater-Avoid,BabyCroaker-Avoid,BlackLizard-Forbidden,CicadaA-Like,CicadaB-Like,Centiwing-Like,hoverfly-Like,
 Room_Attr: RW_CC_A03: noodleeater-Avoid,BabyCroaker-Avoid,CicadaA-Like,CicadaB-Like,Centiwing-Like,hoverfly-Like,
 Room_Attr: RW_CC_A05: noodleeater-Avoid,BabyCroaker-Avoid,YellowLizard-Like,BlackLizard-Like,CicadaA-Like,CicadaB-Like,Centiwing-Like,hoverfly-Like,
-Room_Attr: RW_CC_A11: noodleeater-Avoid,BabyCroaker-Avoid,TubeWorm-Stay,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,
+Room_Attr: RW_CC_A11: noodleeater-Avoid,BabyCroaker-Avoid,TubeWorm-Stay,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_CC_B07x: noodleeater-Avoid,BabyCroaker-Avoid,CicadaA-Like,CicadaB-Like,Centiwing-Like,hoverfly-Like,
 Room_Attr: RW_CC_B09: noodleeater-Avoid,BabyCroaker-Avoid,YellowLizard-Like,BlackLizard-Like,CicadaA-Like,CicadaB-Like,Centiwing-Like,hoverfly-Like,
 Room_Attr: RW_CC_C01: noodleeater-Avoid,BabyCroaker-Avoid,YellowLizard-Like,BlackLizard-Like,CicadaA-Like,CicadaB-Like,Centiwing-Like,hoverfly-Like,
@@ -201,22 +201,22 @@ Room_Attr: RW_UW_A15: SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,WhiteLizard-Like
 Room_Attr: RW_SS_A02: Scavenger-Forbidden,ScavengerElite-Forbidden,Scrounger-Forbidden,Centiwing-Forbidden,
 Room_Attr: RW_SS_A05: Scavenger-Forbidden,ScavengerElite-Forbidden,Scrounger-Forbidden,Centiwing-Forbidden,
 Room_Attr: RW_SS_A06: Scavenger-Forbidden,ScavengerElite-Forbidden,Scrounger-Forbidden,Centiwing-Forbidden,
-Room_Attr: RW_SS_A07: Scavenger-Forbidden,ScavengerElite-Forbidden,Scrounger-Forbidden,Centiwing-Forbidden,MirosBird-Forbidden,MirosVulture-Forbidden,FlyingBigEel-Forbidden,
+Room_Attr: RW_SS_A07: Scavenger-Forbidden,ScavengerElite-Forbidden,Scrounger-Forbidden,Centiwing-Forbidden,MirosBird-Forbidden,MirosVulture-Forbidden,Bombadier-Forbidden,FlyingBigEel-Forbidden,
 Room_Attr: RW_SS_O02: Scavenger-Forbidden,ScavengerElite-Forbidden,Scrounger-Forbidden,Centiwing-Forbidden,
 
 //Lost City
-Room_Attr: RW_LC_city_room: BlackLizard-Stay,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,Centiwing-Avoid,
-Room_Attr: RW_LC_two_towers_of_DEATH: BlackLizard-Avoid,Centiwing-Like,
-Room_Attr: RW_LC_tallinside: TubeWorm-Stay,Yeek-Avoid,
-Room_Attr: RW_LC_stripmall: Scavenger-Stay,ScavengerElite-Stay,Scrounger-Stay,Yeek-Stay,Centiwing-Like,
-Room_Attr: RW_LC_subway_redocave: MirosBird-Stay,Deer-Forbidden,Scavenger-Stay,ScavengerElite-Stay,Scrounger-Stay,Yeek-Stay,
-Room_Attr: RW_LC_city_test: Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
-Room_Attr: RW_LC_CITYTOWERS: Centiwing-Like,
-Room_Attr: RW_LC_S02: Vulture-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,FatFireFly-Forbidden,Bombadier-Forbidden,FogVulture-Forbidden,
-Room_Attr: RW_LC_01a: Yeek-Stay,Centiwing-Avoid,
-Room_Attr: RW_LC_theslums: Yeek-Stay,
-Room_Attr: RW_LC_02b: Centiwing-Stay,Yeek-Avoid,
-Room_Attr: RW_LC_tower_connection: Centiwing-Like,
+Room_Attr: RW_LC_city_room: Overseer-Stay,BlackLizard-Stay,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,Centiwing-Avoid,
+Room_Attr: RW_LC_two_towers_of_DEATH: Overseer-Stay,BlackLizard-Avoid,Centiwing-Like,
+Room_Attr: RW_LC_tallinside: Overseer-Stay,TubeWorm-Stay,Yeek-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_LC_stripmall: Overseer-Stay,Scavenger-Stay,ScavengerElite-Stay,Scrounger-Stay,Yeek-Stay,Centiwing-Like,
+Room_Attr: RW_LC_subway_redocave: Overseer-Stay,MirosBird-Stay,Deer-Forbidden,Scavenger-Stay,ScavengerElite-Stay,Scrounger-Stay,Yeek-Stay,
+Room_Attr: RW_LC_city_test: Overseer-Stay,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_LC_CITYTOWERS: Overseer-Stay,Centiwing-Like,
+Room_Attr: RW_LC_S02: Overseer-Stay,Vulture-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,Bombadier-Forbidden,FatFireFly-Forbidden,FogVulture-Forbidden,
+Room_Attr: RW_LC_01a: Overseer-Stay,Yeek-Stay,Centiwing-Avoid,
+Room_Attr: RW_LC_theslums: Overseer-Stay,Yeek-Stay,
+Room_Attr: RW_LC_02b: Overseer-Stay,Centiwing-Stay,Yeek-Avoid,
+Room_Attr: RW_LC_tower_connection: Overseer-Stay,Centiwing-Like,
 
 //Shoreline
 Room_Attr: RW_SL_SPLIT: Salamander-Avoid,EelLizard-Avoid,JetFish-Forbidden,
@@ -228,12 +228,12 @@ Room_Attr: RW_SL_A01: Salamander-Stay,EelLizard-Stay,JetFish-Stay,MiniLeviathan-
 //Looks to the Moon
 Room_Attr: RW_LM_WALL01: Centiwing-Like,DropBug-Like,BigSpider-Like,BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,
 Room_Attr: RW_LM_idk: Centiwing-Like,DropBug-Like,BigSpider-Like,BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,
-Room_Attr: RW_DM_ROOFREMAKE: Centiwing-Like,Yeek-Stay,
+Room_Attr: RW_DM_ROOFREMAKE: Centiwing-Like,Yeek-Stay,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW_DM_ROOF02: Centiwing-Avoid,Scavenger-Forbidden,ScavengerElite-Forbidden,Scrounger-Forbidden,
 
 //Moon Structure
-Room_Attr: RW_MS_ROOF01: Yeek-Stay,JetFish-Forbidden,EelLizard-Avoid,
-Room_Attr: RW_MS_ROOF02: Deer-Stay,EelLizard-Avoid,
+Room_Attr: RW_MS_ROOF01: Yeek-Stay,JetFish-Forbidden,EelLizard-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW_MS_ROOF02: Deer-Stay,EelLizard-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 
 Room_Attr: RW_MS_HEARTVENT01: MiniLeviathan-Stay,Leviathan-Stay,AquaCenti-Stay,EelLizard-Like,JetFish-Like,
 Room_Attr: RW_MS_A01: EelLizard-Like,JetFish-Avoid,AquaCenti-Avoid,

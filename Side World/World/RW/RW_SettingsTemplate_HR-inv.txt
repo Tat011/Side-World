@@ -9,7 +9,7 @@ RandomItemSpearChance: 0.25
 Palette: 31
 EffectColorA: 15
 EffectColorB: 14
-Effects: DayNight-1-281-20, LethalWater-1-51-122, Fog-0.5-23-82, Bloom-0.4-327-238, WaterViscosity-0.8-380-21, VoidMelt-0.2-82-94, HeatWave-0.4-20-20, FireFlies-1-504-137, Wasp-1-20-20,
+Effects: DayNight-1-281-20, LethalWater-1-51-122, Fog-0.5-23-82, Bloom-0.4-327-238, WaterViscosity-1-380-21, VoidMelt-0.5-82-94, HeatWave-1-20-20, FireFlies-1-504-137, Wasp-1-20-20,
 AmbientSounds: OMNI><SO_SFX-Doomsday.ogg><716.0696><428.6875><0.1086956><1, OMNI><SO_NAT-Fire.ogg><477.6736><431.3493><0><1, OMNI><SO_SFX-UnderWaterSub.ogg><506.0446><324.195><0.3369565><0.7847826, OMNI><AM_SUB-MysticCave1.ogg><489.6217><229.9087><0.326087><0.823913, OMNI><Weird Deep Hole.wav><739.3003><380.3064><0.04347826><0.8826087, 
 PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~36~33,
 WetTerrain: OFF

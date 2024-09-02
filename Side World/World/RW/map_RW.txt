@@ -30,16 +30,16 @@ RW_DU_B03: -702><372><-588><212><1><Side World (Dense Urban)
 RW_DU_B03x: -6><306><-166><168><0><Side World (Dense Urban)
 RW_DU_B06: -729><390><-586><224><0><Side World (Dense Urban)
 RW_DU_B09: -477><234><-366><78><0><Side World (Dense Urban)
-RW_GW_A02: -681><-240><-502><-196><0><
-RW_GW_A03: -819><-240><-594><-196><0><
-RW_GW_A09: -303><-147><-250><-134><0><
-RW_GW_A15: -177><-321><-166><-250><0><
-RW_GW_A16: -153><-141><-150><-130><0><
-RW_GW_A17: -177><-225><-166><-186><0><
-RW_GW_A18: -447><-138><-346><-128><0><
-RW_GW_LOWERGATE: -33><-48><-70><-68><0><
-RW_GW_scavVillage: -570><-162><-428><-144><0><
-RW_GW_SUB: 315><-66><34><-126><0><
+RW_GW_A02: -681><-240><-502><-196><0><Side World (Garbage Wastes)
+RW_GW_A03: -819><-240><-594><-196><0><Side World (Garbage Wastes)
+RW_GW_A09: -303><-147><-250><-134><0><Side World (Garbage Wastes)
+RW_GW_A15: -177><-321><-166><-250><0><Side World (Garbage Wastes)
+RW_GW_A16: -153><-141><-150><-130><0><Side World (Garbage Wastes)
+RW_GW_A17: -177><-225><-166><-186><0><Side World (Garbage Wastes)
+RW_GW_A18: -447><-138><-346><-128><0><Side World (Garbage Wastes)
+RW_GW_LOWERGATE: -33><-48><-70><-68><0><Side World (Garbage Wastes)
+RW_GW_scavVillage: -570><-162><-428><-144><0><Side World (Garbage Wastes)
+RW_GW_SUB: 315><-66><34><-126><0><Side World (Garbage Wastes)
 RW_SH_A01: 312><363><160><206><0><Side World (Shadow Urban)
 RW_SH_A02: -126><465><-132><274><0><Side World (Shadow Urban)
 RW_SH_A03: 288><201><144><98><0><Side World (Shadow Urban)

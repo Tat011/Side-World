@@ -1,0 +1,15 @@
+DangerType: NONE
+RainIntensity: 0
+RumbleIntensity: 0
+CeilingDrips: 1
+Clouds: 0.4
+Grime: 0
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.25
+WaterReflectionAlpha: 1
+Palette: 45
+EffectColorA: 18
+EffectColorB: 7
+Effects: ElectricDeath-0,2-20-20, BorderPushBack-1-5-79, WaterGlowWorm-0.3-20-20, RockFlea-0.3-20-20,
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><20.80548><457.9536><0.1><1, OMNI><AM_ENV-SubTerr.ogg><17.81799><528.1671><0.2608696><1, OMNI><AM_WIN-SubWnd.ogg><21.30286><380.7162><0.1630435><1, OMNI><MSC-HeavyCreaking.ogg><438.8279><645.0658><1><1, OMNI><MSC-UnrelentingBreakage.ogg><624.9498><647.2405><1><1, OMNI><MSC-StructureStrain.ogg><625.3441><563.3235><1><1, 
+WetTerrain: ON
