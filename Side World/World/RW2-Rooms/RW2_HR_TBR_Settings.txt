@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_HR
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~36~33, LightSource><672.8967><654.3641><0.4565217~EffectColor1~0~100~-492~-107.3975~0~0~None~0~0, LightSource><552.8127><490.6899><0.4565217~EffectColor1~0~100~-420~-48.39746~0~0~None~0~0, LightSource><792.8996><166.327><0.4565217~EffectColor1~0~100~76.00006~-159.3975~0~0~None~0~0, Mushroom><591.7743><78.67418><-378.4959~201.2444~2~9, Mushroom><618.2697><77.23441><-448.2188~72.53333~2~7, Mushroom><646.4984><77.28941><0~0~2~8, 
+FadePalette: 75, 0.6

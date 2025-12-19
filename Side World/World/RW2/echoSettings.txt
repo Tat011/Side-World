@@ -1,0 +1,10 @@
+SpawnOnDifficulty : Spear, Artificer, Gourmand, Red, White, Yellow, Rivulet, Saint, Inv, Beacon, Photomaniac
+priming : False
+size : 0.75
+(Inv,NCREntropy)size : 9
+minkarma : 0
+radius : 2
+echosong : UW
+(Inv,NCREntropy)echosong : RW_41 - Grumblebum
+room : RW2_LC_02b
+defaultflip : 1

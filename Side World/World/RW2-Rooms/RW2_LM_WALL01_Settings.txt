@@ -1,0 +1,13 @@
+Template: RW_SettingsTemplate_SI
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0.15
+Grime: 0.23
+Palette: 74
+EffectColorA: 15
+EffectColorB: 15
+Effects: LightRain-0.3-20-20, 
+PlacedObjects: DayNightSettings><923.379><1213.909><-55~48.66025~33~10, LightSource><814.1239><2026.344><0.4565217~White~0~100~50~86.60254~0~0~None~0~0, LightSource><730.0786><1625.854><0.4021739~White~14~89~-249~35.60254~0~0~None~0~0, LightSource><732.4393><1389.309><0.4021739~White~23~87~99~-58.39752~0~0~None~0~0, LightSource><2054.1><792.8684><0.4565217~White~0~100~-420~-191.3975~0~0~None~0~0, LightSource><2034.098><347.1207><0.4565217~White~0~100~-146~91.60254~0~0~None~0~0, Durian><626.3535><598.8206><-312~-203.9889~2~6, Durian><676.1979><593.9711><-171~-187~2~8, Durian><736.6323><597.0998><86.00006~-70.04156~2~7, NeedleEgg><1813.159><194.1288><0~0~2~9, LimeMushroom><405.0666><1277.58><-155~-154~2~6, LimeMushroom><451.1287><1266.909><-206~-228~2~6, LimeMushroom><371.8221><1254.092><-121~-303~2~6, Durian><477.0565><2015.308><-122~-119~2~7, Durian><518.5646><1996.439><0~0~2~6, 
+MorePalette0: 74, 0.03, 0.03, 0.03, 0.03

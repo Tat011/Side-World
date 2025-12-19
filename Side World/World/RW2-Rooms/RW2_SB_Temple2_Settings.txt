@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_SB
+Effects: VoidMelt-0.2-82-94,
+PlacedObjects: DayNightSettings><120.5785><63.60281><-156~-67.33981~18~43, LightSource><916.1941><328.0485><0.4565217~White~0~100~-60~256.6025~0~0~None~0~0, LightSource><227.1527><148.8709><0.4565217~White~0~100~-403~-75.39746~0~0~None~0~0, TempleGuard><611.5654><549.439><, GuardProtectNode><936.6794><320.1618><10^2, NeedleEgg><85.22824><563.8012><-258~-13~2~9, LimeMushroom><65.73224><252.5508><-238~222~2~7, LimeMushroom><152.3059><189.9516><-325~206~2~10, LimeMushroom><188.5692><173.9146><-362~140~2~8, DepthsFruit><802.554><509.7101><-595~-462~2~9, DepthsFruit><873.3248><434.5211><-316~-147~2~8, 
+FadePalette: 10, 0.2

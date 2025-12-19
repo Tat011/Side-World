@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: Thunder
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.05
+Clouds: 0
+Grime: 0
+Palette: 0
+EffectColorA: 13
+EffectColorB: 2
+Effects: SunBlock-1-20-20, SuperStructureProjector-0.66-20-20, ProjectedScanLines-0.66-20-20, ZeroG-0.66-20-20, ElectricDeath-1-20-20, RGBElectricDeath-1-716-345-Red:235.5978-Blue:255-Green:0-Red:235.5978-Blue:255-Green:0, 
+PlacedObjects: CellDistortion><478.8143><248.9257><-495~2~-429~142.6025~1~1~0.5~0.06521739, DeepProcessing><326.5484><71.30594><-4~364~289~364~290~0~309~349~0.5543475~1~1, ExitSymbolHidden><743.9143><382.1359><, ExitSymbolHidden><741.1953><118.793><, ExitSymbolHidden><904.9801><188.949><, ExitSymbolHidden><907.807><308.6974><, ExitSymbolHidden><707.6978><390.9706><, ExitSymbolHidden><719.9131><107.8198><,
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.6><1, OMNI><AM_IND-SuperStructure.ogg><763.4661><556.0529><0.4><1, 
+FadePalette: 33, 0.5
+WetTerrain: OFF

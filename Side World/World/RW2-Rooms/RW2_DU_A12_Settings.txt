@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_DUinterior
+EffectColorB: 3
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~20~10, LightSource><895.1895><586.3094><0.4565217~White~0~100~-59~5.602478~0~0~None~0~0, LightSource><611.4343><85.57753><0.4565217~White~0~100~-193~-125.3975~0~0~None~0~0, LightSource><45.18262><624.3117><0.4565217~White~0~100~-256.3239~-124.3309~0~0~None~0~0, LightSource><709.4155><597.6812><0.5~White~1~109~-903~-458.3975~0~0~Flash~0.8369565~1, LightSource><506.3028><597.5333><0.5~White~-1~110~-699~-346.3975~0~0~Flash~0.6304348~1, LightSource><300.529><596.3021><0.5~White~0~107~-514.9011~-259.6864~0~0~Flash~0.6956522~1, ThornyStrawberry><425.3947><386.6381><0~0~2~12, ThornyStrawberry><68.39951><472.2774><0~0~2~5, LimeMushroom><783.0729><327.9839><0~0~2~5, LimeMushroom><747.095><329.4974><0~0~2~6, 
+MorePalette0: 5, 0.03

@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_MS
+PlacedObjects: LightSource><895.0903><65.87042><0.4565217~White~0~100~-17~104.6025~0~0~None~0~0, LightSource><774.2587><608.9498><0.4565217~White~0~100~-10~-175.3974~0~0~None~0~0, LightSource><105.4332><287.6696><0.4565217~White~0~100~-262~222.6021~0~0~None~0~0, GlowWeed><601.6722><51.29907><-499~-45.43291~2~12, BubbleGrass><323.5013><383.55><19~102~2~9, BubbleGrass><173.4078><385.3771><0~0~2~9, 
+FadePalette: 5, 0.3

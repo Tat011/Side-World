@@ -1,0 +1,4 @@
+Template: RW_SettingsTemplate_LCinterior
+EffectColorB: 5
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~35~10, LightSource><651.0502><88.49133><0.4565217~White~0~100~-99~139.5154~0~0~None~0~0, LightSource><187.9241><813.1851><0.4565217~White~0~100~-164.9042~-172.6864~0~0~None~0~0, LanternOnStick><882.6027><400.5784><21~-44, LanternOnStick><469.9792><511.5511><22~-45, LanternOnStick><896.6885><148.683><-9~-25, LanternOnStick><410.239><151.3003><-10~-13, NeedleEgg><964.7838><713.8286><71.55542~-26.40009~2~12, DandelionPeach><529.334><508.0142><-507.2698~49.77774~2~8, DandelionPeach><931.7656><544.8544><-888.6115~-60.44446~2~9, DandelionPeach><671.7509><725.8499><-651.6958~-319.2896~2~10, 
+MorePalette0: 33, 0.03

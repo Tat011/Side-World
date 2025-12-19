@@ -1,0 +1,22 @@
+base : Front House
+Suburban
+Dense Urban
+Shadow Urban
+Garbage Wastes
+Drainage System
+Shoreline
+Root
+Underhang
+Wall
+Superstructure
+Chimney Canopy
+Sky Islands
+Strip Farms
+Subterranean
+Temple
+Hell Region
+Lost City
+Looks to the Moon
+Depths of Moon
+Moon Structure
+Outer Expanse

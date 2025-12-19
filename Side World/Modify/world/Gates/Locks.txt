@@ -1,3 +1,4 @@
 [MERGE]
-GATE_4B_RW : 0 : 0
+GATE_4B_RW2 : 0 : 0
+GATE_RW2_RW : 3 : 3
 [ENDMERGE]

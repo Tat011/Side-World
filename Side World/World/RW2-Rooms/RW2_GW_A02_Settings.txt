@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_GWinterior
+PlacedObjects: DayNightSettings><870.8481><1445.13><5~8.660254~8~10, BubbleGrass><482.1365><459.3337><-104~112~2~10, BubbleGrass><314.5546><459.2477><-304~109~2~10, LightSource><874.5112><406.1997><0.4565217~EffectColor1~0~100~-88~113.6026~0~0~None~0~0, LightSource><146.6678><190.8912><0.4565217~EffectColor1~0~100~-154~-178.3975~0~0~None~0~0, LightSource><193.6728><420.6845><0.3043478~EffectColor1~1~78~-318~23.60254~0~0~None~0~0, BubbleGrass><370.8052><476.0565><-175.7302~-206.9333~2~10, VultureGrub><415.2343><471.6068><0~0~2~10, 
+MorePalette0: 9, 0.03

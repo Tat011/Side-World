@@ -1,0 +1,3 @@
+Template: RW_SettingsTemplate_CC
+PlacedObjects: DayNightSettings><402.5785><297.6028><-395~-301.3398~3~10, FlyLure><513.5569><1042.802><0~0~2~12, DandelionPeach><472.6339><651.0865><-626~-65.0083~2~12, DangleFruit><502.5512><930.9781><133~-64~2~7, DangleFruit><503.0502><91.44312><150~-33.00002~2~8, DangleFruit><449.4315><508.2189><-338~-137.0001~2~9, 
+MorePalette0: 6, 0.01, 0.01
