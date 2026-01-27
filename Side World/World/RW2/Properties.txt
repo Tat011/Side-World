@@ -1,6 +1,8 @@
+globalCreatureFlags: Lavasafe
 Palette: 0
 superStructureFusesBroken: 1
 pupSpawnChance: 1
+rippleSpiderThreshold: 10
 
 batDepleteCyclesMin: 1
 batDepleteCyclesMax: 12
@@ -19,28 +21,53 @@ forcePreCycleChance: 0
 kelpColor: 0.6,0,0.6
 batGlowColor: 1,0.8,1
 dragonflyColor: 1,0,1
+boxWormColor: 1,0,1
+inspectorColor: 0.8,0,0.8
 wormGrassLight: true
+hideVoidSpawn: false
 
 corruptionEyeColor: 0.6,0,0.6
 corruptionEffectColor: 0.6,0,0.6
 rotEyeColor: BrotherLongLegs-990099,DaddyLongLegs-aa00aa,TerrorLongLegs-be00be,HunterDaddy-530000
 rotEffectColor: BrotherLongLegs-990099,DaddyLongLegs-aa00aa,TerrorLongLegs-be00be,HunterDaddy-530000
 
-{MSC,#watcher}scavGearItems: ExplosiveSpear-0.2,ElectricSpear-0.33,HellSpear-0.33,Boomerang-0.2,Lantern-0.25,GlowWeed-0.2,LillyPuck-0.075,GraffitiBomb-0.2,FireEgg-0.035,WaterNut-0.05,FirecrackerPlant-0.05,SporePlant-0.075,PuffBall-0.05,VultureGrub-0.075,Hazer-0.075,Jellyfish-0.075,VultureMask-0.025,KarmaFlower-0.05,Mushroom-0.05,ScavengerBomb-1
-{!MSC,#watcher}scavGearItems: ExplosiveSpear-0.25,Boomerang-0.2,Lantern-0.25,GlowWeed-0.2,LillyPuck-0.075,GraffitiBomb-0.2,WaterNut-0.05,FirecrackerPlant-0.05,SporePlant-0.075,PuffBall-0.05,VultureGrub-0.075,Hazer-0.075,Jellyfish-0.075,VultureMask-0.025,KarmaFlower-0.05,Mushroom-0.05,ScavengerBomb-1
-{MSC,#!watcher}scavGearItems: ExplosiveSpear-0.2,ElectricSpear-0.33,HellSpear-0.33,Lantern-0.25,GlowWeed-0.2,LillyPuck-0.075,FireEgg-0.035,WaterNut-0.05,FirecrackerPlant-0.05,SporePlant-0.075,PuffBall-0.05,VultureGrub-0.075,Hazer-0.075,Jellyfish-0.075,VultureMask-0.025,KarmaFlower-0.05,Mushroom-0.05,ScavengerBomb-1
-{!MSC,#!watcher}scavGearItems: ExplosiveSpear-0.25,Lantern-0.25,WaterNut-0.05,FirecrackerPlant-0.05,SporePlant-0.075,PuffBall-0.05,VultureGrub-0.075,Hazer-0.075,Jellyfish-0.075,VultureMask-0.025,KarmaFlower-0.05,Mushroom-0.05,ScavengerBomb-1
+{#moreslugcats,#watcher}scavGearItems: ExplosiveSpear-0.1,ElectricSpear-0.1,HellSpear-0.1,PoisonSpear-0.1,Boomerang-0.15,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.1,FireEgg-0.1,WaterNut-0.1,FirecrackerPlant-0.1,BubbleGrass-0.1,SporePlant-0.1,PuffBall-0.1,JellyFish-0.1,VultureGrub-0.1,Hazer-0.1,VultureMask-0.05,KarmaFlower-0.1,Mushroom-0.1,DataPearl-1
+{#moreslugcats,#!watcher}scavGearItems: ExplosiveSpear-0.1,ElectricSpear-0.15,HellSpear-0.1,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.1,FireEgg-0.1,WaterNut-0.1,FirecrackerPlant-0.1,BubbleGrass-0.1,SporePlant-0.1,PuffBall-0.1,JellyFish-0.1,VultureGrub-0.1,Hazer-0.1,VultureMask-0.05,KarmaFlower-0.1,Mushroom-0.1,DataPearl-1
+{#!moreslugcats,#watcher}scavGearItems: ExplosiveSpear-0.1,ElectricSpear-0.15,PoisonSpear-0.1,Boomerang-0.15,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.1,WaterNut-0.1,FirecrackerPlant-0.1,BubbleGrass-0.1,SporePlant-0.1,PuffBall-0.1,JellyFish-0.1,VultureGrub-0.1,Hazer-0.1,VultureMask-0.05,KarmaFlower-0.1,Mushroom-0.1,DataPearl-1
+{#!moreslugcats,#!watcher}scavGearItems: ExplosiveSpear-0.2,ScavengerBomb-0.2,Lantern-0.1,WaterNut-0.1,FirecrackerPlant-0.1,BubbleGrass-0.1,SporePlant-0.1,PuffBall-0.1,VultureGrub-0.1,Hazer-0.1,JellyFish-0.1,VultureMask-0.05,KarmaFlower-0.1,Mushroom-0.1,DataPearl-1
 
-{MSC,#watcher}eliteScavGearItems: HellSpear-0.33,Boomerang-0.2,Lantern-0.2,GlowWeed-0.2,LillyPuck-0.1,GraffitiBomb-0.2,FireEgg-0.04,WaterNut-0.05,FirecrackerPlant-0.075,SporePlant-0.1,PuffBall-0.075,VultureGrub-0.1,Hazer-0.1,Jellyfish-0.1,KarmaFlower-0.03,Mushroom-0.03,ScavengerBomb-1
-{!MSC,#watcher}eliteScavGearItems: Boomerang-0.2,Lantern-0.2,GlowWeed-0.2,LillyPuck-0.1,GraffitiBomb-0.2,WaterNut-0.05,FirecrackerPlant-0.075,SporePlant-0.1,PuffBall-0.075,VultureGrub-0.1,Hazer-0.1,Jellyfish-0.1,KarmaFlower-0.03,Mushroom-0.03,ScavengerBomb-1
-{MSC,#!watcher}eliteScavGearItems: HellSpear-0.33,Lantern-0.2,GlowWeed-0.2,LillyPuck-0.1,FireEgg-0.04,WaterNut-0.05,FirecrackerPlant-0.075,SporePlant-0.1,PuffBall-0.075,VultureGrub-0.1,Hazer-0.1,Jellyfish-0.1,KarmaFlower-0.03,Mushroom-0.03,ScavengerBomb-1
+{#moreslugcats,#watcher}eliteScavGearItems: HellSpear-0.15,PoisonSpear-0.15,Boomerang-0.15,ScavengerBomb-0.2,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.2,FireEgg-0.1,WaterNut-0.1,FirecrackerPlant-0.1,BubbleGrass-0.1,SporePlant-0.1,PuffBall-0.1,JellyFish-0.1,VultureGrub-0.1,Hazer-0.1,KarmaFlower-0.1,Mushroom-0.1,DataPearl-1
+{#moreslugcats,#!watcher}eliteScavGearItems: HellSpear-0.2,ScavengerBomb-0.2,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.2,FireEgg-0.1,WaterNut-0.1,FirecrackerPlant-0.1,BubbleGrass-0.1,SporePlant-0.1,PuffBall-0.1,JellyFish-0.1,VultureGrub-0.1,Hazer-0.1,KarmaFlower-0.1,Mushroom-0.1,DataPearl-1
+{#!moreslugcats,#watcher}eliteScavGearItems: PoisonSpear-0.2,Boomerang-0.15,ScavengerBomb-0.2,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.2,WaterNut-0.1,FirecrackerPlant-0.1,BubbleGrass-0.1,SporePlant-0.1,PuffBall-0.1,JellyFish-0.1,VultureGrub-0.1,Hazer-0.1,KarmaFlower-0.1,Mushroom-0.1,DataPearl-1
 
-scavScoreItems: ScavengerBomb-4,FireEgg-3,JellyFish-2,WaterNut-2,GlowWeed-2,VultureGrub-2,Hazer-2,Boomerang-2,GraffitiBomb-2
+scavScoreItems: SingularityBomb-15,InspectorCarcass-14,OracleSwarmer-14,OverseerCarcass-10,DataPearl-10,KingVultureMask-10,Rifle-8,VultureMask-7,ExplosiveSpear-6,ElectricSpear-5,HellSpear-5,ScavengerBomb-5,KarmaFlower-5,ChargedFlareBomb-5,FireEgg-5,PoisonSpear-4,Lantern-4,LillyPuck-3,JellyFish-4,Spear-3,SporePlant-3,VultureGrub-3,Durian-3,FirecrackerPlant-3,GlowWeed-2,NeedleEgg-3,FireSpriteLarva-3,Boomerang-3,RockFruit-3,LittleBalloon-2,ThornyStrawberry-2,BouncingMelon-2,Hazer-2,GraffitiBomb-2,PuffBall-2,FlareBomb-2,Mushroom-2,WaterNut-2,GooieDuck-2,EggBugEgg-2,SlimeMold-2,DandelionPeach-2,BubbleGrass-2,MarineEye-2,DangleFruit-1,LimeMushroom-1,Seed-1,FlyLure-1,Rock-1
 
-{MSC,#watcher}dropwigBaitItems: Lantern-0.25,GlowWeed-0.25,ElectricSpear-0.25,ExplosiveSpear-0.25,HellSpear-0.25,ScavengerBomb-0.25,DataPearl-0.25,Boomerang-0.2,GraffitiBomb-0.2,FireEgg-0.15,WaterNut-0.1,FirecrackerPlant-0.1,VultureGrub-0.1,DangleFruit-0.1,GooieDuck-0.1,FlyLure-0.1,Mushroom-0.1,Seed-0.1,OverseerCarcass-0.1,KarmaFlower-1
-{!MSC,#watcher}dropwigBaitItems: Lantern-0.25,GlowWeed-0.25,ElectricSpear-0.25,ExplosiveSpear-0.25,ScavengerBomb-0.25,DataPearl-0.25,Boomerang-0.2,GraffitiBomb-0.2,WaterNut-0.1,FirecrackerPlant-0.1,VultureGrub-0.1,DangleFruit-0.1,GooieDuck-0.1,FlyLure-0.1,Mushroom-0.1,OverseerCarcass-0.1,KarmaFlower-1
-{MSC,#!watcher}dropwigBaitItems: Lantern-0.25,GlowWeed-0.25,ElectricSpear-0.25,ExplosiveSpear-0.25,HellSpear-0.25,ScavengerBomb-0.25,DataPearl-0.25,FireEgg-0.15,WaterNut-0.1,FirecrackerPlant-0.1,VultureGrub-0.1,DangleFruit-0.1,GooieDuck-0.1,FlyLure-0.1,Mushroom-0.1,Seed-0.1,OverseerCarcass-0.1,KarmaFlower-1
-{!MSC,#!watcher}dropwigBaitItems: Lantern-0.25,ExplosiveSpear-0.25,ScavengerBomb-0.25,DataPearl-0.25,WaterNut-0.1,FirecrackerPlant-0.1,VultureGrub-0.1,DangleFruit-0.1,FlyLure-0.1,Mushroom-0.1,OverseerCarcass-0.1,KarmaFlower-1
+{#moreslugcats,#watcher}dropwigBaitItems: ElectricSpear-0.1,ExplosiveSpear-0.1,HellSpear-0.1,PoisonSpear-0.1,Boomerang-0.15,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,FirecrackerPlant-0.1,FlyLure-0.1,WaterNut-0.1,SporePlant-0.1,VultureGrub-0.1,Hazer-0.1,FireEgg-0.1,Mushroom-0.1,DangleFruit-0.1,OverseerCarcass-0.15,DataPearl-0.25,KarmaFlower-1
+{#moreslugcats,#!watcher}dropwigBaitItems: ElectricSpear-0.15,ExplosiveSpear-0.1,HellSpear-0.1,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,FirecrackerPlant-0.1,FlyLure-0.1,WaterNut-0.1,SporePlant-0.1,VultureGrub-0.1,Hazer-0.1,FireEgg-0.1,Mushroom-0.1,DangleFruit-0.1,OverseerCarcass-0.15,DataPearl-0.25,KarmaFlower-1
+{#!moreslugcats,#watcher}dropwigBaitItems: ExplosiveSpear-0.1,PoisonSpear-0.15,Boomerang-0.15,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,FirecrackerPlant-0.1,FlyLure-0.1,WaterNut-0.1,SporePlant-0.1,VultureGrub-0.1,Hazer-0.1,Mushroom-0.1,DangleFruit-0.1,OverseerCarcass-0.15,DataPearl-0.25,KarmaFlower-1
+{#!moreslugcats,#!watcher}dropwigBaitItems: ExplosiveSpear-0.2,ScavengerBomb-0.2,Lantern-0.1,FirecrackerPlant-0.1,FlyLure-0.1,WaterNut-0.1,SporePlant-0.1,VultureGrub-0.1,Hazer-0.1,Mushroom-0.1,DangleFruit-0.1,OverseerCarcass-0.15,DataPearl-0.25,KarmaFlower-1
+
+overseersSpawnChance: 0.7
+overseersMin: 0
+overseersMax: 200
+playerGuideOverseerSpawnChance: 1
+guideShelterWeight: 5
+guideDangerousCreatureWeight: 5
+overseersColorOverride(0.5, 0, 0.5): 0.15 //Purpler
+overseersColorOverride(1, 1, 0): 0.15 //Saturated Yellow
+overseersColorOverride(5): 0.15 //Purple
+overseersColorOverride(0, 0, 0): 0.15 //Black
+overseersColorOverride(1, 0, 1): 0.15 //Magenta
+overseersColorOverride(0, 0, 0.4): 0.15 //Dark Blue
+overseersColorOverride(0, 0, 1): 0.15 //Saturated Blue
+overseersColorOverride(1, 0.5, 0): 0.15 //Orange
+overseersColorOverride(0, 0.6, 0.5): 0.15 //GreenBlue
+overseersColorOverride(1, 0.5, 0.5): 0.15 //Light Red
+overseersColorOverride(0.5, 0.5, 0.5): 0.15 //Grey
+overseersColorOverride(3): 0.15 //Saturated Red (SRS)
+overseersColorOverride(4): 0.15 //White
+overseersColorOverride(2): 0.15 //Saturated Green (NSH)
+overseersColorOverride(1): 0.25 //Yellow(ish) (Moon)
 
 Subregion: Side World (Suburban)
 Subregion: Side World (Dense Urban)
@@ -64,28 +91,6 @@ Subregion: Side World (Depths of Moon)
 Subregion: Side World (Moon Structure)
 Subregion: Side World (Outer Expanse)
 
-overseersSpawnChance: 0.7
-overseersMin: 0
-overseersMax: 200
-playerGuideOverseerSpawnChance: 1
-guideShelterWeight: 2
-guideDangerousCreatureWeight: 2
-overseersColorOverride(0.5, 0, 0.5): 0.15 //Purpler
-overseersColorOverride(1, 1, 0): 0.15 //Saturated Yellow
-overseersColorOverride(5): 0.15 //Purple
-overseersColorOverride(0, 0, 0): 0.15 //Black
-overseersColorOverride(1, 0, 1): 0.15 //Magenta
-overseersColorOverride(0, 0, 0.4): 0.15 //Dark Blue
-overseersColorOverride(0, 0, 1): 0.15 //Saturated Blue
-overseersColorOverride(1, 0.5, 0): 0.15 //Orange
-overseersColorOverride(0, 0.6, 0.5): 0.15 //GreenBlue
-overseersColorOverride(1, 0.5, 0.5): 0.15 //Light Red
-overseersColorOverride(0.5, 0.5, 0.5): 0.15 //Grey
-overseersColorOverride(3): 0.15 //Saturated Red (SRS)
-overseersColorOverride(4): 0.15 //White
-overseersColorOverride(2): 0.15 //Saturated Green (NSH)
-overseersColorOverride(1): 0.25 //Yellow(ish) (Moon)
-
 Room Setting Templates: SU, SUinterior, DU, DUinterior, SH, SHinterior, GW, GWinterior, DS, SL, SLinterior, Underhang, Leg, SS, CC, CCinterior, SI, SIinterior, LF, LFinterior, SB, HR, LC, LCinterior, MS, OE, OEinterior
 
 Room_Attr: GATE_4B_RW2: Scavenger-Forbidden,ScavengerElite-Forbidden,Scrounger-Forbidden,SmallCentipede-Forbidden,Centipede-Forbidden,Centiwing-Forbidden,noodleeater-Forbidden,PinkLizard-Forbidden,BlueLizard-Forbidden,YellowLizard-Forbidden,WhiteLizard-Forbidden,BlackLizard-Forbidden,CyanLizard-Forbidden,RedLizard-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,SmallNeedleWorm-Forbidden,BigNeedleWorm-Forbidden,SnootShootNoot-Forbidden,
@@ -101,7 +106,7 @@ Room_Attr: RW2_OE_S05: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,Dr
 
 //Linear Farms
 Room_Attr: RW2_LF_A08: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,BigNeedleWorm-Avoid,SmallNeedleWorm-Avoid,SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,CicadaA-Avoid,CicadaB-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
-Room_Attr: RW2_LF_A09: SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,Deer-Stay,WalkerBeast-Stay,DrillCrab-Stay,TowerCrab-Stay,Loach-Stay,
+Room_Attr: RW2_LF_A09: SmallCentipede-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,Deer-Stay,WalkerBeast-Stay,DrillCrab-Stay,Loach-Stay,
 Room_Attr: RW2_LF_C04: SmallCentipede-Like,Centipede-Like,RedCentipede-Like,Scutigera-Like,
 
 //Suburban
@@ -124,7 +129,7 @@ Room_Attr: RW2_SU_B03: noodleeater-Avoid,BabyCroaker-Avoid,CicadaA-Like,CicadaB-
 //Dense Urban
 Room_Attr: RW2_DU_A20: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW2_DU_A13: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
-Room_Attr: RW2_DU_A05: Deer-Stay,MirosBird-Stay,Blizzor-Stay,SparkEye-Stay,WalkerBeast-Stay,DrillCrab-Stay,TowerCrab-Stay,Loach-Stay,BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW2_DU_A05: Deer-Stay,MirosBird-Stay,Blizzor-Stay,SparkEye-Stay,WalkerBeast-Stay,DrillCrab-Stay,Loach-Stay,BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 
 Room_Attr: RW2_DU_A04: Deer-Stay,
 Room_Attr: RW2_DU_A14: TubeWorm-Stay,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
@@ -146,10 +151,10 @@ Room_Attr: RW2_DU_B06: BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterse
 Room_Attr: RW2_DU_B09: DropBug-Like,BabyCroaker-Like,noodleeater-Like,BlueLizard-Like,
 
 //Shadow Urban
-Room_Attr: RW2_SH_A02: Deer-Forbidden,MirosBird-Stay,Blizzor-Stay,SparkEye-Stay,WalkerBeast-Forbidden,DrillCrab-Stay,TowerCrab-Forbidden,Loach-Forbidden,BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,
+Room_Attr: RW2_SH_A02: Deer-Forbidden,MirosBird-Stay,Blizzor-Stay,SparkEye-Stay,WalkerBeast-Forbidden,DrillCrab-Stay,Loach-Forbidden,BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,
 Room_Attr: RW2_SH_A20: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,DropBug-Avoid,noodleeater-Avoid,PinkLizard-Avoid,BlueLizard-Avoid,BlackLizard-Avoid,CyanLizard-Avoid,RedLizard-Avoid,CicadaA-Avoid,CicadaB-Avoid,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,SnootShootNoot-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 
-Room_Attr: RW2_SH_A01: Deer-Stay,DrillCrab-Stay,TowerCrab-Stay,Loach-Stay,LanternMouse-Like,BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,
+Room_Attr: RW2_SH_A01: Deer-Stay,DrillCrab-Stay,Loach-Stay,LanternMouse-Like,BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,
 Room_Attr: RW2_SH_A03: LanternMouse-Like,BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,
 Room_Attr: RW2_SH_CLIMB: LanternMouse-Like,BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,
 
@@ -178,7 +183,7 @@ Room_Attr: RW2_SI_A03x: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hover
 Room_Attr: RW2_SI_A09: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
 Room_Attr: RW2_SI_A10: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
 Room_Attr: RW2_SI_A11: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
-Room_Attr: RW2_SI_A12: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,Snail-Stay,bouncingball-Stay,Deer-Stay,DrillCrab-Stay,TowerCrab-Stay,Loach-Stay,
+Room_Attr: RW2_SI_A12: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,Snail-Stay,bouncingball-Stay,Deer-Stay,DrillCrab-Stay,Loach-Stay,
 Room_Attr: RW2_SI_A13: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
 Room_Attr: RW2_SI_A14: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Like,hoverfly-Like,CicadaA-Like,CicadaB-Like,
 Room_Attr: RW2_SI_A15: noodleeater-Avoid,BabyCroaker-Avoid,Centiwing-Avoid,hoverfly-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
@@ -223,7 +228,7 @@ Room_Attr: RW2_LC_city_room: Overseer-Stay,BlackLizard-Stay,SmallNeedleWorm-Avoi
 Room_Attr: RW2_LC_two_towers_of_DEATH: Overseer-Stay,BlackLizard-Avoid,Centiwing-Like,
 Room_Attr: RW2_LC_tallinside: Overseer-Stay,TubeWorm-Stay,Yeek-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW2_LC_stripmall: Overseer-Stay,Scavenger-Stay,ScavengerElite-Stay,Scrounger-Stay,Yeek-Stay,Centiwing-Like,
-Room_Attr: RW2_LC_subway_redocave: Overseer-Stay,MirosBird-Stay,Blizzor-Stay,SparkEye-Stay,WalkerBeast-Stay,DrillCrab-Stay,TowerCrab-Stay,Loach-Stay,Deer-Forbidden,Scavenger-Stay,ScavengerElite-Stay,Scrounger-Stay,Yeek-Stay,
+Room_Attr: RW2_LC_subway_redocave: Overseer-Stay,MirosBird-Stay,Blizzor-Stay,SparkEye-Stay,WalkerBeast-Stay,DrillCrab-Stay,Loach-Stay,Deer-Forbidden,Scavenger-Stay,ScavengerElite-Stay,Scrounger-Stay,Yeek-Stay,
 Room_Attr: RW2_LC_city_test: Overseer-Stay,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
 Room_Attr: RW2_LC_CITYTOWERS: Overseer-Stay,Centiwing-Like,
 Room_Attr: RW2_LC_S02: Overseer-Stay,Vulture-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,Bombadier-Forbidden,FatFireFly-Forbidden,FogVulture-Forbidden,
@@ -246,8 +251,8 @@ Room_Attr: RW2_DM_ROOFREMAKE: Centiwing-Like,Yeek-Stay,Scavenger-Avoid,Scavenger
 Room_Attr: RW2_DM_ROOF02: Centiwing-Avoid,Scavenger-Forbidden,ScavengerElite-Forbidden,Scrounger-Forbidden,
 
 //Moon Structure
-Room_Attr: RW2_MS_ROOF01: Yeek-Stay,JetFish-Forbidden,EelLizard-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
-Room_Attr: RW2_MS_ROOF02: Deer-Stay,WalkerBeast-Stay,DrillCrab-Stay,TowerCrab-Stay,Loach-Stay,EelLizard-Avoid,Scavenger-Avoid,ScavengerElite-Avoid,Scrounger-Avoid,
+Room_Attr: RW2_MS_ROOF01: Deer-Stay,WalkerBeast-Stay,DrillCrab-Stay,Loach-Stay,EelLizard-Avoid,Yeek-Stay,JetFish-Forbidden,
+Room_Attr: RW2_MS_ROOF02: Deer-Stay,WalkerBeast-Stay,DrillCrab-Stay,Loach-Stay,EelLizard-Avoid,
 
 Room_Attr: RW2_MS_HEARTVENT01: MiniLeviathan-Stay,Leviathan-Stay,AquaCenti-Stay,EelLizard-Like,JetFish-Like,Angler-Stay,
 Room_Attr: RW2_MS_A01: EelLizard-Like,JetFish-Avoid,AquaCenti-Avoid,
